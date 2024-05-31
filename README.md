@@ -1,6 +1,7 @@
 # speech synthesis paper list
 
 - [SoundStream: An End-to-End Neural Audio Codec](https://arxiv.org/abs/2107.03312) (arxiv 2021) : https://github.com/google/lyra
+- [HiFi-Codec: Group-residual Vector quantization for High Fidelity Audio Codec](https://arxiv.org/abs/2305.02765v2) (arxiv 2023) : https://github.com/yangdongchao/AcademiCodec
 - [High Fidelity Neural Audio Compression](https://openreview.net/forum?id=ivCd8z8zR2) (ICLR 2024) : https://github.com/facebookresearch/encodec
 - [FunCodec: A Fundamental, Reproducible and Integrable Open-source Toolkit for Neural Speech Codec](https://arxiv.org/abs/2309.07405v2) (arxiv 2023) : https://github.com/modelscope/FunCodec
 - [UniCATS: A Unified Context-Aware Text-to-Speech Framework with Contextual VQ-Diffusion and Vocoding](https://arxiv.org/abs/2306.07547v6) (AAAI 2024) : https://github.com/X-LANCE/UniCATS-CTX-vec2wav
