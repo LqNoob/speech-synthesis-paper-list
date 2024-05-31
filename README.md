@@ -24,3 +24,10 @@
 - OpenVoice: https://github.com/myshell-ai/OpenVoice
 - GPT-SoVITS: https://github.com/RVC-Boss/GPT-SoVITS
 
+## Ref
+
+- [别慌！一文教你看懂GPT-4o背后的语音技术](https://zhuanlan.zhihu.com/p/698725358)
+- [百花齐放的Audio Codec: 语音合成利器](https://zhuanlan.zhihu.com/p/696434090)
+
+
+
