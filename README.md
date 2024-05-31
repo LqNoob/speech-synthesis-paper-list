@@ -1,6 +1,8 @@
 # speech synthesis paper list
 
 - [SoundStream: An End-to-End Neural Audio Codec](https://arxiv.org/abs/2107.03312) (arxiv 2021) : https://github.com/google/lyra
+- [AudioLM: a Language Modeling Approach to Audio Generation](https://arxiv.org/abs/2209.03143v2) (arxiv 2022)
+- [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers](https://arxiv.org/abs/2301.02111v1) (arxiv 2023) : https://github.com/microsoft/unilm
 - [InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt](https://arxiv.org/abs/2301.13662v2) (arxiv 2023) : https://dongchaoyang.top/InstructTTS/
 - [High Fidelity Neural Audio Compression](https://openreview.net/forum?id=ivCd8z8zR2) (ICLR 2024) : https://github.com/facebookresearch/encodec
 - [HiFi-Codec: Group-residual Vector quantization for High Fidelity Audio Codec](https://arxiv.org/abs/2305.02765v2) (arxiv 2023) : https://github.com/yangdongchao/AcademiCodec
