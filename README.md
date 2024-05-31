@@ -12,4 +12,5 @@
 ## Other
 
 - [Instruct-MusicGen: Unlocking Text-to-Music Editing for Music Language Models via Instruction Tuning](https://arxiv.org/abs/2405.18386v2) (arxiv 2024) : https://github.com/ldzhangyx/instruct-MusicGen
+- [StoryTTS: A Highly Expressive Text-to-Speech Dataset with Rich Textual Expressiveness Annotations](https://arxiv.org/abs/2404.14946) (ICASSP 2024) : https://github.com/X-LANCE/StoryTTS
 
