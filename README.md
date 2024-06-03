@@ -20,6 +20,7 @@
 - [NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers](https://openreview.net/forum?id=Rc7dAwVL3v) (ICLR 2024)
 - [NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models](https://arxiv.org/abs/2403.03100v3) (arxiv 2024)
 - [Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](https://openreview.net/forum?id=mvMI3N4AvD) (ICLR 2024)
+- [HAM-TTS: Hierarchical Acoustic Modeling for Token-Based Zero-Shot Text-to-Speech with Model and Data Scaling](https://arxiv.org/abs/2403.05989) (arxiv 2024)
 
 ## Other
 
