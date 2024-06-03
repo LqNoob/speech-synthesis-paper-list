@@ -17,6 +17,9 @@
 
 - [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers](https://arxiv.org/abs/2301.02111v1) (arxiv 2023 - VALL-E) : https://github.com/microsoft/unilm
 - [VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild](https://arxiv.org/abs/2403.16973v2) (arxiv 2024 - VoiceCraft) : https://github.com/jasonppy/VoiceCraft
+- [NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers](https://openreview.net/forum?id=Rc7dAwVL3v) (ICLR 2024)
+- [NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models](https://arxiv.org/abs/2403.03100v3) (arxiv 2024)
+- [Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](https://openreview.net/forum?id=mvMI3N4AvD) (ICLR 2024)
 
 ## Other
 
