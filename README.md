@@ -2,8 +2,6 @@
 
 - [SoundStream: An End-to-End Neural Audio Codec](https://arxiv.org/abs/2107.03312) (arxiv 2021) : https://github.com/google/lyra
 - [AudioLM: a Language Modeling Approach to Audio Generation](https://arxiv.org/abs/2209.03143v2) (arxiv 2022)
-- [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers](https://arxiv.org/abs/2301.02111v1) (arxiv 2023 - VALL-E) : https://github.com/microsoft/unilm
-- [VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild](https://arxiv.org/abs/2403.16973v2) (arxiv 2024 - VoiceCraft) : https://github.com/jasonppy/VoiceCraft
 - [High-Fidelity Audio Compression with Improved RVQGAN](https://openreview.net/forum?id=qjnl1QUnFA) (NeurIPS 2023) : https://github.com/descriptinc/descript-audio-codec
 - [InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt](https://arxiv.org/abs/2301.13662v2) (arxiv 2023) : https://dongchaoyang.top/InstructTTS/
 - [High Fidelity Neural Audio Compression](https://openreview.net/forum?id=ivCd8z8zR2) (ICLR 2024) : https://github.com/facebookresearch/encodec
@@ -15,6 +13,10 @@
 - [The X-LANCE Technical Report for Interspeech 2024 Speech Processing Using Discrete Speech Unit Challenge](https://arxiv.org/abs/2404.06079v2) (Interspeech 2024)
 - [X-Codec: Unified Audio Tokenizer for Audio Language Model]() (2024) : https://github.com/zhenye234/xcodec
 
+## Zero-Shot TTS
+
+- [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers](https://arxiv.org/abs/2301.02111v1) (arxiv 2023 - VALL-E) : https://github.com/microsoft/unilm
+- [VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild](https://arxiv.org/abs/2403.16973v2) (arxiv 2024 - VoiceCraft) : https://github.com/jasonppy/VoiceCraft
 
 ## Other
 
