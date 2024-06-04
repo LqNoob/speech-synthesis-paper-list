@@ -18,6 +18,9 @@
 
 ## Zero-Shot TTS
 
+- [Voiceflow: Efficient text-to-speech with rectified flow matching](https://arxiv.org/abs/2309.05027v2) (ICASSP 2024) : https://github.com/X-LANCE/VoiceFlow-TTS
+- [Voicebox: Text-guided multilingual universal speech generation at scale](https://openreview.net/forum?id=gzCS252hCO) (NeurIPS 2023)
+- [Matcha-tts: A fast tts architecture with conditional flow matching](https://arxiv.org/abs/2309.03199v2) (ICASSP 2024) : https://github.com/shivammehta25/Matcha-TTS
 - [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers](https://arxiv.org/abs/2301.02111v1) (arxiv 2023 - VALL-E) : https://github.com/microsoft/unilm
 - [VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild](https://arxiv.org/abs/2403.16973v2) (arxiv 2024 - VoiceCraft) : https://github.com/jasonppy/VoiceCraft
 - [NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers](https://openreview.net/forum?id=Rc7dAwVL3v) (ICLR 2024)
