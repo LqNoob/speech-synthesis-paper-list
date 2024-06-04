@@ -11,6 +11,7 @@
 - [FunCodec: A Fundamental, Reproducible and Integrable Open-source Toolkit for Neural Speech Codec](https://arxiv.org/abs/2309.07405v2) (arxiv 2023) : https://github.com/modelscope/FunCodec
 - [SpeechTokenizer: Unified Speech Tokenizer for Speech Language Models](https://openreview.net/forum?id=AF9Q8Vip84) (ICLR 2024) : https://github.com/ZhangXInFD/SpeechTokenizer
 - [SemantiCodec: An Ultra Low Bitrate Semantic Audio Codec for General Sound](https://arxiv.org/abs/2405.00233) (arxiv 2024) : https://github.com/haoheliu/SemantiCodec
+- [HILCodec: High Fidelity and Lightweight Neural Audio Codec](https://arxiv.org/abs/2405.04752) (arxiv 2024) : https://github.com/aask1357/hilcodec
 - [UniCATS: A Unified Context-Aware Text-to-Speech Framework with Contextual VQ-Diffusion and Vocoding](https://arxiv.org/abs/2306.07547v6) (AAAI 2024) : https://github.com/X-LANCE/UniCATS-CTX-vec2wav
 - [The X-LANCE Technical Report for Interspeech 2024 Speech Processing Using Discrete Speech Unit Challenge](https://arxiv.org/abs/2404.06079v2) (Interspeech 2024)
 - [X-Codec: Unified Audio Tokenizer for Audio Language Model]() (2024) : https://github.com/zhenye234/xcodec
