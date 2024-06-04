@@ -36,11 +36,12 @@
 - GPT-SoVITS: https://github.com/RVC-Boss/GPT-SoVITS
 - VoiceCraft: https://github.com/jasonppy/VoiceCraft
 
-## Ref
+## Reference
 
 - [别慌！一文教你看懂GPT-4o背后的语音技术](https://zhuanlan.zhihu.com/p/698725358)
 - [百花齐放的Audio Codec: 语音合成利器](https://zhuanlan.zhihu.com/p/696434090)
 - [InterSpeech2024 Speech Processing Using Discrete Speech Units](https://interspeech2024.org/special-sessions-challenges/) : https://www.wavlab.org/activities/2024/Interspeech2024-Discrete-Speech-Unit-Challenge/
+- [Towards audio language modeling -- an overview](https://arxiv.org/abs/2402.13236)
 
 
 
