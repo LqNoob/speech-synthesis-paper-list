@@ -32,6 +32,7 @@
 - ChatTTS: https://github.com/2noise/ChatTTS/tree/main
 - OpenVoice: https://github.com/myshell-ai/OpenVoice
 - GPT-SoVITS: https://github.com/RVC-Boss/GPT-SoVITS
+- VoiceCraft: https://github.com/jasonppy/VoiceCraft
 
 ## Ref
 
