@@ -4,6 +4,7 @@
 - [AudioLM: a Language Modeling Approach to Audio Generation](https://arxiv.org/abs/2209.03143v2) (arxiv 2022)
 - [High-Fidelity Audio Compression with Improved RVQGAN](https://openreview.net/forum?id=qjnl1QUnFA) (NeurIPS 2023) : https://github.com/descriptinc/descript-audio-codec
 - [InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt](https://arxiv.org/abs/2301.13662v2) (arxiv 2023) : https://dongchaoyang.top/InstructTTS/
+- [AudioDec: An Open-source Streaming High-fidelity Neural Audio Codec]() (ICASSP 2023) : https://bigpon.github.io/AudioDec_demo/
 - [Soundstorm: Efficient parallel audio generation](https://openreview.net/forum?id=KknWbD5j95) (ICLR 2024)
 - [High Fidelity Neural Audio Compression](https://openreview.net/forum?id=ivCd8z8zR2) (ICLR 2024) : https://github.com/facebookresearch/encodec
 - [HiFi-Codec: Group-residual Vector quantization for High Fidelity Audio Codec](https://arxiv.org/abs/2305.02765v2) (arxiv 2023) : https://github.com/yangdongchao/AcademiCodec
