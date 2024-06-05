@@ -27,6 +27,7 @@
 - [NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models](https://arxiv.org/abs/2403.03100v3) (arxiv 2024)
 - [Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](https://openreview.net/forum?id=mvMI3N4AvD) (ICLR 2024)
 - [HAM-TTS: Hierarchical Acoustic Modeling for Token-Based Zero-Shot Text-to-Speech with Model and Data Scaling](https://arxiv.org/abs/2403.05989) (arxiv 2024)
+- [ControlSpeech: Towards Simultaneous Zero-shot Speaker Cloning and Zero-shot Language Style Control With Decoupled Codec](https://arxiv.org/abs/2406.01205) (arxiv 2024) : https://github.com/jishengpeng/ControlSpeech
 
 ## Other
 
