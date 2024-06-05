@@ -46,6 +46,7 @@
 - VoiceCraft: https://github.com/jasonppy/VoiceCraft
 - YourTTS: https://github.com/Edresson/YourTTS
 - Coqui: https://github.com/coqui-ai/TTS
+- pytorch-OpCounter: https://github.com/Lyken17/pytorch-OpCounter
 
 ## Reference
 
