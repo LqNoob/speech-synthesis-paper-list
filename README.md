@@ -45,6 +45,7 @@
 - GPT-SoVITS: https://github.com/RVC-Boss/GPT-SoVITS
 - VoiceCraft: https://github.com/jasonppy/VoiceCraft
 - YourTTS: https://github.com/Edresson/YourTTS
+- Coqui: https://github.com/coqui-ai/TTS
 
 ## Reference
 
