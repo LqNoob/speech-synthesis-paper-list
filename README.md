@@ -39,6 +39,7 @@
 - [CoVoMix: Advancing Zero-Shot Speech Generation for Human-like Multi-talker Conversations](https://arxiv.org/abs/2404.06690) (arxiv 2024 - multi-round dialogue speech generation)
 - [SpeechAlign: Aligning Speech Generation to Human Preferences](https://arxiv.org/abs/2404.05600) (arxiv 2024 - Human Feedback) : https://github.com/0nutation/SpeechGPT
 - [Enhancing Zero-shot Text-to-Speech Synthesis with Human Feedback](https://www.arxiv.org/abs/2406.00654) (arxiv 2024 - Human Feedback)
+- [Seed-TTS: A Family of High-Quality Versatile Speech Generation Models](https://arxiv.org/abs/2406.02430) (arxiv) : https://bytedancespeech.github.io/seedtts_tech_report/
 
 ## GitHub
 
