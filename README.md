@@ -63,6 +63,7 @@
 - [百花齐放的Audio Codec: 语音合成利器](https://zhuanlan.zhihu.com/p/696434090)
 - [InterSpeech2024 Speech Processing Using Discrete Speech Units](https://interspeech2024.org/special-sessions-challenges/) : https://www.wavlab.org/activities/2024/Interspeech2024-Discrete-Speech-Unit-Challenge/
 - [Towards audio language modeling -- an overview](https://arxiv.org/abs/2402.13236)
+- [Codec-SUPERB: An In-Depth Analysis of Sound Codec Models](https://arxiv.org/abs/2402.13071v2) : https://github.com/voidful/Codec-SUPERB
 
 
 
