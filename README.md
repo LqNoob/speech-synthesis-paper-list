@@ -18,6 +18,7 @@
 - [The X-LANCE Technical Report for Interspeech 2024 Speech Processing Using Discrete Speech Unit Challenge](https://arxiv.org/abs/2404.06079v2) (Interspeech 2024)
 - [BiVocoder: A Bidirectional Neural Vocoder Integrating Feature Extraction and Waveform Generation](https://arxiv.org/abs/2406.02162) (arxiv 2024) : https://redmist328.github.io/BiVcoder
 - [Generative Pre-trained Speech Language Model with Efficient Hierarchical Transformer](https://openreview.net/forum?id=TJNCnkDRkY) (ICLR 2024)
+- [Spectral Codecs: Spectrogram-Based Audio Codecs for High Quality Speech Synthesis](https://arxiv.org/abs/2406.05298) (arxiv 2024)
 - [X-Codec: Unified Audio Tokenizer for Audio Language Model]() (2024) : https://github.com/zhenye234/xcodec
 
 ## Zero-Shot TTS
