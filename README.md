@@ -43,7 +43,7 @@
 - [SpeechAlign: Aligning Speech Generation to Human Preferences](https://arxiv.org/abs/2404.05600) (arxiv 2024 - Human Feedback) : https://github.com/0nutation/SpeechGPT
 - [Enhancing Zero-shot Text-to-Speech Synthesis with Human Feedback](https://www.arxiv.org/abs/2406.00654) (arxiv 2024 - Human Feedback)
 - [Seed-TTS: A Family of High-Quality Versatile Speech Generation Models](https://arxiv.org/abs/2406.02430) (arxiv 2024) : https://bytedancespeech.github.io/seedtts_tech_report/
-- [WenetSpeech4TTS: A 12,800-hour Mandarin TTS Corpus for Large Speech Generation Model Benchmark](https://arxiv.org/abs/2406.05763v2) (arxiv 2024)
+- [WenetSpeech4TTS: A 12,800-hour Mandarin TTS Corpus for Large Speech Generation Model Benchmark](https://arxiv.org/abs/2406.05763v2) (arxiv 2024) : https://huggingface.co/Wenetspeech4TTS
 
 ## GitHub
 
