@@ -36,6 +36,7 @@
 - [XTTS: a Massively Multilingual Zero-Shot Text-to-Speech Model](https://arxiv.org/abs/2406.04904) (arxiv 2024) : https://edresson.github.io/XTTS/
 - [VALL-E 2: Neural Codec Language Models are Human Parity Zero-Shot Text to Speech Synthesizers](https://arxiv.org/abs/2406.05370) (arxiv 2024)
 - [Autoregressive Diffusion Transformer for Text-to-Speech Synthesis](https://www.arxiv.org/abs/2406.05551) (arxiv 2024) : https://ardit-tts.github.io/
+- [Better speech synthesis through scaling](https://arxiv.org/abs/2305.07243) (arxiv 2023) : https://github.com/neonbjb/tortoise-tts
 
 ## Other
 
