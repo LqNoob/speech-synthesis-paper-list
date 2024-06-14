@@ -62,7 +62,7 @@
 
 - [别慌！一文教你看懂GPT-4o背后的语音技术](https://zhuanlan.zhihu.com/p/698725358)
 - [百花齐放的Audio Codec: 语音合成利器](https://zhuanlan.zhihu.com/p/696434090)
-- [InterSpeech2024 Speech Processing Using Discrete Speech Units](https://interspeech2024.org/special-sessions-challenges/) : https://www.wavlab.org/activities/2024/Interspeech2024-Discrete-Speech-Unit-Challenge/ : https://huggingface.co/discrete-speech
+- [InterSpeech2024 Speech Processing Using Discrete Speech Units](https://interspeech2024.org/special-sessions-challenges/) : https://www.wavlab.org/activities/2024/Interspeech2024-Discrete-Speech-Unit-Challenge/ : https://huggingface.co/discrete-speech : [arxiv 2024](https://arxiv.org/abs/2406.07725)
 - [Towards audio language modeling -- an overview](https://arxiv.org/abs/2402.13236)
 - [Codec-SUPERB: An In-Depth Analysis of Sound Codec Models](https://arxiv.org/abs/2402.13071v2) : https://github.com/voidful/Codec-SUPERB
 
