@@ -58,6 +58,7 @@
 - YourTTS: https://github.com/Edresson/YourTTS
 - Coqui: https://github.com/coqui-ai/TTS
 - pytorch-OpCounter: https://github.com/Lyken17/pytorch-OpCounter
+- MARS5-TTS: https://github.com/Camb-ai/MARS5-TTS
 
 ## Reference
 
