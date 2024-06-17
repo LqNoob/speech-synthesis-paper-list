@@ -20,6 +20,7 @@
 - [Generative Pre-trained Speech Language Model with Efficient Hierarchical Transformer](https://openreview.net/forum?id=TJNCnkDRkY) (ICLR 2024)
 - [Spectral Codecs: Spectrogram-Based Audio Codecs for High Quality Speech Synthesis](https://arxiv.org/abs/2406.05298) (arxiv 2024)
 - [X-Codec: Unified Audio Tokenizer for Audio Language Model]() (2024) : https://github.com/zhenye234/xcodec
+- [Finite Scalar Quantization: VQ-VAE Made Simple](https://openreview.net/forum?id=8ishA3LxN8) (ICLR 2024) : https://github.com/google-research/google-research/tree/master/fsq
 
 ## Zero-Shot TTS
 
