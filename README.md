@@ -60,6 +60,7 @@
 - Coqui: https://github.com/coqui-ai/TTS
 - pytorch-OpCounter: https://github.com/Lyken17/pytorch-OpCounter
 - MARS5-TTS: https://github.com/Camb-ai/MARS5-TTS
+- edge-tts: https://github.com/rany2/edge-tts
 
 ## Reference
 
