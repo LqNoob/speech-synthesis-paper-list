@@ -23,6 +23,7 @@
 - [Finite Scalar Quantization: VQ-VAE Made Simple](https://openreview.net/forum?id=8ishA3LxN8) (ICLR 2024) : https://github.com/google-research/google-research/tree/master/fsq
 - [UniAudio 1.5: Large Language Model-driven Audio Codec is A Few-shot Audio Task Learner](https://arxiv.org/abs/2406.10056) (arxiv 2024) : https://github.com/yangdongchao/LLM-Codec
 - snac : https://github.com/hubertsiuzdak/snac
+- [Vocos: Closing the gap between time-domain and Fourier-based neural vocoders for high-quality audio synthesis](https://arxiv.org/abs/2306.00814) (arxiv 2023) : https://github.com/gemelo-ai/vocos
 
 ## Zero-Shot TTS
 
