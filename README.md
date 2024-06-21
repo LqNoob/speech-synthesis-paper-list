@@ -22,6 +22,7 @@
 - [X-Codec: Unified Audio Tokenizer for Audio Language Model]() (2024) : https://github.com/zhenye234/xcodec
 - [Finite Scalar Quantization: VQ-VAE Made Simple](https://openreview.net/forum?id=8ishA3LxN8) (ICLR 2024) : https://github.com/google-research/google-research/tree/master/fsq
 - [UniAudio 1.5: Large Language Model-driven Audio Codec is A Few-shot Audio Task Learner](https://arxiv.org/abs/2406.10056) (arxiv 2024) : https://github.com/yangdongchao/LLM-Codec
+- snac : https://github.com/hubertsiuzdak/snac
 
 ## Zero-Shot TTS
 
