@@ -64,6 +64,8 @@
 - YourTTS: https://github.com/Edresson/YourTTS
 - Coqui: https://github.com/coqui-ai/TTS
 - pytorch-OpCounter: https://github.com/Lyken17/pytorch-OpCounter
+- rich: https://github.com/Textualize/rich
+- argbind: https://github.com/pseeth/argbind/
 - MARS5-TTS: https://github.com/Camb-ai/MARS5-TTS
 - edge-tts: https://github.com/rany2/edge-tts
 
