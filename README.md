@@ -55,6 +55,11 @@
 - [Enhancing Zero-shot Text-to-Speech Synthesis with Human Feedback](https://www.arxiv.org/abs/2406.00654) (arxiv 2024 - Human Feedback)
 - [Seed-TTS: A Family of High-Quality Versatile Speech Generation Models](https://arxiv.org/abs/2406.02430) (arxiv 2024) : https://bytedancespeech.github.io/seedtts_tech_report/
 - [WenetSpeech4TTS: A 12,800-hour Mandarin TTS Corpus for Large Speech Generation Model Benchmark](https://arxiv.org/abs/2406.05763v2) (arxiv 2024) : https://huggingface.co/Wenetspeech4TTS
+- [Natural language guidance of high-fidelity text-to-speech with synthetic annotations](https://arxiv.org/abs/2402.01912) : https://github.com/huggingface/parler-tts
+- [Simple and Controllable Music Generation](https://arxiv.org/abs/2306.05284) : https://github.com/facebookresearch/audiocraft
+- [HierSpeech++: Bridging the Gap between Semantic and Acoustic Representation of Speech by Hierarchical Variational Inference for Zero-shot Speech Synthesis](https://arxiv.org/abs/2311.12454) : https://github.com/sh-lee-prml/HierSpeechpp
+- [Speak, Read and Prompt: High-Fidelity Text-to-Speech with Minimal Supervision](https://arxiv.org/abs/2302.03540) : https://github.com/collabora/WhisperSpeech
+- EmotiVoice: https://github.com/netease-youdao/EmotiVoice
 
 ## GitHub
 
