@@ -44,6 +44,7 @@
 - [VALL-E R: Robust and Efficient Zero-Shot Text-to-Speech Synthesis via Monotonic Alignment](https://arxiv.org/abs/2406.07855) (arxiv 2024)
 - [DiTTo-TTS: Efficient and Scalable Zero-Shot Text-to-Speech with Diffusion Transformer](https://arxiv.org/abs/2406.11427) (arxiv 2024)
 - [CLaM-TTS: Improving Neural Codec Language Model for Zero-Shot Text-to-Speech](https://openreview.net/forum?id=ofzeypWosV) (ICLR 2024)
+- [TacoLM: GaTed Attention Equipped Codec Language Model are Efficient Zero-Shot Text to Speech Synthesizers](https://arxiv.org/abs/2406.15752) (arxiv 2024) : https://github.com/Ereboas/TacoLM
 
 ## Other
 
