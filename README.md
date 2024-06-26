@@ -45,6 +45,7 @@
 - [DiTTo-TTS: Efficient and Scalable Zero-Shot Text-to-Speech with Diffusion Transformer](https://arxiv.org/abs/2406.11427) (arxiv 2024)
 - [CLaM-TTS: Improving Neural Codec Language Model for Zero-Shot Text-to-Speech](https://openreview.net/forum?id=ofzeypWosV) (ICLR 2024)
 - [TacoLM: GaTed Attention Equipped Codec Language Model are Efficient Zero-Shot Text to Speech Synthesizers](https://arxiv.org/abs/2406.15752) (arxiv 2024) : https://github.com/Ereboas/TacoLM
+- [HierSpeech++: Bridging the Gap between Semantic and Acoustic Representation of Speech by Hierarchical Variational Inference for Zero-shot Speech Synthesis](https://arxiv.org/abs/2311.12454) : https://github.com/sh-lee-prml/HierSpeechpp
 
 ## Other
 
@@ -57,7 +58,6 @@
 - [WenetSpeech4TTS: A 12,800-hour Mandarin TTS Corpus for Large Speech Generation Model Benchmark](https://arxiv.org/abs/2406.05763v2) (arxiv 2024) : https://huggingface.co/Wenetspeech4TTS
 - [Natural language guidance of high-fidelity text-to-speech with synthetic annotations](https://arxiv.org/abs/2402.01912) (Prompt Control) : https://github.com/huggingface/parler-tts
 - [Simple and Controllable Music Generation](https://arxiv.org/abs/2306.05284) (Prompt Control) : https://github.com/facebookresearch/audiocraft
-- [HierSpeech++: Bridging the Gap between Semantic and Acoustic Representation of Speech by Hierarchical Variational Inference for Zero-shot Speech Synthesis](https://arxiv.org/abs/2311.12454) : https://github.com/sh-lee-prml/HierSpeechpp
 - [Speak, Read and Prompt: High-Fidelity Text-to-Speech with Minimal Supervision](https://arxiv.org/abs/2302.03540) : https://github.com/collabora/WhisperSpeech
 - EmotiVoice: https://github.com/netease-youdao/EmotiVoice
 
