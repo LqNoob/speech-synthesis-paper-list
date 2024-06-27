@@ -59,6 +59,9 @@
 - [Natural language guidance of high-fidelity text-to-speech with synthetic annotations](https://arxiv.org/abs/2402.01912) (Prompt Control) : https://github.com/huggingface/parler-tts
 - [Simple and Controllable Music Generation](https://arxiv.org/abs/2306.05284) (Prompt Control) : https://github.com/facebookresearch/audiocraft
 - [Speak, Read and Prompt: High-Fidelity Text-to-Speech with Minimal Supervision](https://arxiv.org/abs/2302.03540) : https://github.com/collabora/WhisperSpeech
+- [High Fidelity Text-to-Speech Via Discrete Tokens Using Token Transducer and Group Masked Language Model](https://arxiv.org/abs/2406.17310) (Transducer/End-to-End)
+- [VALL-T: Decoder-Only Generative Transducer for Robust and Decoding-Controllable Text-to-Speech](https://arxiv.org/abs/2401.14321) (Transducer)
+- [Utilizing Neural Transducers for Two-Stage Text-to-Speech via Semantic Token Prediction](https://arxiv.org/abs/2401.01498) (Transducer/End-to-End)
 - EmotiVoice: https://github.com/netease-youdao/EmotiVoice
 
 ## GitHub
