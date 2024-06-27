@@ -6,7 +6,7 @@
 - [InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt](https://arxiv.org/abs/2301.13662v2) (arxiv 2023) : https://dongchaoyang.top/InstructTTS/
 - [AudioDec: An Open-source Streaming High-fidelity Neural Audio Codec](https://arxiv.org/abs/2305.16608) (ICASSP 2023) : https://bigpon.github.io/AudioDec_demo/
 - [Soundstorm: Efficient parallel audio generation](https://openreview.net/forum?id=KknWbD5j95) (ICLR 2024)
-- [High Fidelity Neural Audio Compression](https://openreview.net/forum?id=ivCd8z8zR2) (ICLR 2024) : https://github.com/facebookresearch/encodec
+- [High Fidelity Neural Audio Compression](https://openreview.net/forum?id=ivCd8z8zR2) (ICLR 2024) : https://github.com/facebookresearch/encodec | https://github.com/ZhikangNiu/encodec-pytorch
 - [HiFi-Codec: Group-residual Vector quantization for High Fidelity Audio Codec](https://arxiv.org/abs/2305.02765v2) (arxiv 2023) : https://github.com/yangdongchao/AcademiCodec
 - [FunCodec: A Fundamental, Reproducible and Integrable Open-source Toolkit for Neural Speech Codec](https://arxiv.org/abs/2309.07405v2) (arxiv 2023) : https://github.com/modelscope/FunCodec
 - [SpeechTokenizer: Unified Speech Tokenizer for Speech Language Models](https://openreview.net/forum?id=AF9Q8Vip84) (ICLR 2024) : https://github.com/ZhangXInFD/SpeechTokenizer
