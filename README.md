@@ -46,6 +46,7 @@
 - [CLaM-TTS: Improving Neural Codec Language Model for Zero-Shot Text-to-Speech](https://openreview.net/forum?id=ofzeypWosV) (ICLR 2024)
 - [TacoLM: GaTed Attention Equipped Codec Language Model are Efficient Zero-Shot Text to Speech Synthesizers](https://arxiv.org/abs/2406.15752) (arxiv 2024) : https://github.com/Ereboas/TacoLM
 - [HierSpeech++: Bridging the Gap between Semantic and Acoustic Representation of Speech by Hierarchical Variational Inference for Zero-shot Speech Synthesis](https://arxiv.org/abs/2311.12454) : https://github.com/sh-lee-prml/HierSpeechpp
+- [E2 TTS: Embarrassingly Easy Fully Non-Autoregressive Zero-Shot TTS](https://arxiv.org/abs/2406.18009) (arxiv 2024, similar to Seed-TTS)
 
 ## Other
 
