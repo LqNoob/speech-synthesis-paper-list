@@ -24,7 +24,6 @@
 - [UniAudio 1.5: Large Language Model-driven Audio Codec is A Few-shot Audio Task Learner](https://arxiv.org/abs/2406.10056) (arxiv 2024) : https://github.com/yangdongchao/LLM-Codec
 - snac : https://github.com/hubertsiuzdak/snac
 - [Vocos: Closing the gap between time-domain and Fourier-based neural vocoders for high-quality audio synthesis](https://arxiv.org/abs/2306.00814) (arxiv 2023) : https://github.com/gemelo-ai/vocos
-- [Spectral Codecs: Spectrogram-Based Audio Codecs for High Quality Speech Synthesis](https://arxiv.org/abs/2406.05298v1) (arxiv 2024)
 
 ## Zero-Shot TTS
 
