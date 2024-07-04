@@ -79,6 +79,7 @@
 - rich: https://github.com/Textualize/rich
 - argbind: https://github.com/pseeth/argbind/
 - audiotools: https://github.com/descriptinc/audiotools
+- hydra: https://github.com/facebookresearch/hydra
 - MARS5-TTS: https://github.com/Camb-ai/MARS5-TTS
 - edge-tts: https://github.com/rany2/edge-tts
 - open-tts-tracker: https://github.com/Vaibhavs10/open-tts-tracker
