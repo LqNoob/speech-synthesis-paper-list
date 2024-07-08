@@ -86,6 +86,7 @@
 - MARS5-TTS: https://github.com/Camb-ai/MARS5-TTS
 - edge-tts: https://github.com/rany2/edge-tts
 - open-tts-tracker: https://github.com/Vaibhavs10/open-tts-tracker
+- Amphion: https://github.com/open-mmlab/Amphion
 
 ## Reference
 
