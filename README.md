@@ -68,6 +68,7 @@
 - [Utilizing Neural Transducers for Two-Stage Text-to-Speech via Semantic Token Prediction](https://arxiv.org/abs/2401.01498) (Transducer/End-to-End)
 - [Improving Robustness of LLM-based Speech Synthesis by Learning Monotonic Alignment](https://arxiv.org/abs/2406.17957v1) (Monotonic Alignment)
 - EmotiVoice: https://github.com/netease-youdao/EmotiVoice
+- [AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://arxiv.org/abs/2402.12226) (arxiv 2024) : https://github.com/OpenMOSS/AnyGPT
 
 ## GitHub
 
@@ -87,7 +88,6 @@
 - edge-tts: https://github.com/rany2/edge-tts
 - open-tts-tracker: https://github.com/Vaibhavs10/open-tts-tracker
 - Amphion: https://github.com/open-mmlab/Amphion
-- AnyGPT: https://github.com/OpenMOSS/AnyGPT
 
 ## Reference
 
