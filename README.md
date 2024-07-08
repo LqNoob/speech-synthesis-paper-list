@@ -24,6 +24,7 @@
 - [UniAudio 1.5: Large Language Model-driven Audio Codec is A Few-shot Audio Task Learner](https://arxiv.org/abs/2406.10056) (arxiv 2024) : https://github.com/yangdongchao/LLM-Codec
 - snac : https://github.com/hubertsiuzdak/snac
 - [Vocos: Closing the gap between time-domain and Fourier-based neural vocoders for high-quality audio synthesis](https://arxiv.org/abs/2306.00814) (arxiv 2023) : https://github.com/gemelo-ai/vocos
+- [CosyVoice: A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens](https://fun-audio-llm.github.io/pdf/CosyVoice_v1.pdf) (2024) : https://github.com/FunAudioLLM/CosyVoice
 
 ## Zero-Shot TTS
 
@@ -48,6 +49,7 @@
 - [HierSpeech++: Bridging the Gap between Semantic and Acoustic Representation of Speech by Hierarchical Variational Inference for Zero-shot Speech Synthesis](https://arxiv.org/abs/2311.12454) : https://github.com/sh-lee-prml/HierSpeechpp
 - [E2 TTS: Embarrassingly Easy Fully Non-Autoregressive Zero-Shot TTS](https://arxiv.org/abs/2406.18009) (arxiv 2024, similar to Seed-TTS)
 - [Robust Zero-Shot Text-to-Speech Synthesis with Reverse Inference Optimization](https://arxiv.org/abs/2407.02243) (arxiv 2024, Human FeedBack)
+- [CosyVoice: A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens](https://fun-audio-llm.github.io/pdf/CosyVoice_v1.pdf) (2024) : https://github.com/FunAudioLLM/CosyVoice
 
 ## Other
 
