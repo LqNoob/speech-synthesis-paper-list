@@ -88,6 +88,7 @@
 - edge-tts: https://github.com/rany2/edge-tts
 - open-tts-tracker: https://github.com/Vaibhavs10/open-tts-tracker
 - Amphion: https://github.com/open-mmlab/Amphion
+- CTranslate2: https://github.com/OpenNMT/CTranslate2
 
 ## Reference
 
