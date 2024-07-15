@@ -80,17 +80,22 @@
 - VoiceCraft: https://github.com/jasonppy/VoiceCraft
 - YourTTS: https://github.com/Edresson/YourTTS
 - Coqui: https://github.com/coqui-ai/TTS
+- MARS5-TTS: https://github.com/Camb-ai/MARS5-TTS
+- edge-tts: https://github.com/rany2/edge-tts
+- open-tts-tracker: https://github.com/Vaibhavs10/open-tts-tracker
+- Amphion: https://github.com/open-mmlab/Amphion
+- CTranslate2: https://github.com/OpenNMT/CTranslate2
+
+## Nice Tool
+
 - pytorch-OpCounter: https://github.com/Lyken17/pytorch-OpCounter
 - rich: https://github.com/Textualize/rich
 - argbind: https://github.com/pseeth/argbind/
 - audiotools: https://github.com/descriptinc/audiotools
 - hydra: https://github.com/facebookresearch/hydra
 - joblib: https://github.com/joblib/joblib
-- MARS5-TTS: https://github.com/Camb-ai/MARS5-TTS
-- edge-tts: https://github.com/rany2/edge-tts
-- open-tts-tracker: https://github.com/Vaibhavs10/open-tts-tracker
-- Amphion: https://github.com/open-mmlab/Amphion
-- CTranslate2: https://github.com/OpenNMT/CTranslate2
+- einops: https://github.com/arogozhnikov/einops
+- safetensors: https://github.com/huggingface/safetensors
 
 ## Reference
 
