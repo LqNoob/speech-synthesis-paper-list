@@ -25,6 +25,7 @@
 - snac : https://github.com/hubertsiuzdak/snac
 - [Vocos: Closing the gap between time-domain and Fourier-based neural vocoders for high-quality audio synthesis](https://arxiv.org/abs/2306.00814) (arxiv 2023) : https://github.com/gemelo-ai/vocos
 - [CosyVoice: A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens](https://fun-audio-llm.github.io/pdf/CosyVoice_v1.pdf) (2024) : https://github.com/FunAudioLLM/CosyVoice
+- [Single-Codec: Single-Codebook Speech Codec towards High-Performance Speech Generation](https://www.arxiv.org/abs/2406.07422) (InterSpeech 2024)
 
 ## Zero-Shot TTS
 
