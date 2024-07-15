@@ -97,6 +97,7 @@
 - einops: https://github.com/arogozhnikov/einops
 - safetensors: https://github.com/huggingface/safetensors
 - OpenDiloco: https://github.com/PrimeIntellect-ai/OpenDiloco
+- WeTextProcessing: https://github.com/wenet-e2e/WeTextProcessing
 
 ## Reference
 
