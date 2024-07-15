@@ -96,6 +96,7 @@
 - joblib: https://github.com/joblib/joblib
 - einops: https://github.com/arogozhnikov/einops
 - safetensors: https://github.com/huggingface/safetensors
+- OpenDiloco: https://github.com/PrimeIntellect-ai/OpenDiloco
 
 ## Reference
 
