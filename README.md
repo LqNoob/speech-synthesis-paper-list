@@ -85,6 +85,7 @@
 - open-tts-tracker: https://github.com/Vaibhavs10/open-tts-tracker
 - Amphion: https://github.com/open-mmlab/Amphion
 - CTranslate2: https://github.com/OpenNMT/CTranslate2
+- CFM: https://github.com/atong01/conditional-flow-matching
 
 ## Nice Tool
 
