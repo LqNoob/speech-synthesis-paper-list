@@ -72,6 +72,7 @@
 - EmotiVoice: https://github.com/netease-youdao/EmotiVoice
 - [AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://arxiv.org/abs/2402.12226) (arxiv 2024) : https://github.com/OpenMOSS/AnyGPT
 - [Speech-Copilot: Leveraging Large Language Models for Speech Processing via Task Decomposition, Modularization, and Program Generation](https://arxiv.org/abs/2407.09886) (arxiv 2024) : ??
+- [Qwen2-Audio Technical Report](https://www.arxiv.org/abs/2407.10759) (arxiv 2024) : https://github.com/QwenLM/Qwen2-Audio
 
 ## GitHub
 
