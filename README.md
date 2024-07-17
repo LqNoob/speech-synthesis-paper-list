@@ -88,6 +88,7 @@
 - Amphion: https://github.com/open-mmlab/Amphion
 - CTranslate2: https://github.com/OpenNMT/CTranslate2
 - CFM: https://github.com/atong01/conditional-flow-matching
+- speech-trident: https://github.com/ga642381/speech-trident
 
 ## Nice Tool
 
