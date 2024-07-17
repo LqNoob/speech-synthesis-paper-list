@@ -89,6 +89,7 @@
 - CTranslate2: https://github.com/OpenNMT/CTranslate2
 - CFM: https://github.com/atong01/conditional-flow-matching
 - speech-trident: https://github.com/ga642381/speech-trident
+- bark: https://github.com/suno-ai/bark
 
 ## Nice Tool
 
