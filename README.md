@@ -73,7 +73,9 @@
 - [AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://arxiv.org/abs/2402.12226) (arxiv 2024) : https://github.com/OpenMOSS/AnyGPT
 - [Speech-Copilot: Leveraging Large Language Models for Speech Processing via Task Decomposition, Modularization, and Program Generation](https://arxiv.org/abs/2407.09886) (arxiv 2024) : ?? https://github.com/kuan2jiu99
 - [Qwen2-Audio Technical Report](https://www.arxiv.org/abs/2407.10759) (arxiv 2024) : https://github.com/QwenLM/Qwen2-Audio
+- [Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models](https://arxiv.org/abs/2311.07919) (arxiv 2023) : https://github.com/QwenLM/Qwen-Audio
 - [WavLLM: Towards Robust and Adaptive Speech Large Language Model](https://arxiv.org/abs/2404.00656) (arxiv 2024) : https://github.com/microsoft/SpeechT5/tree/main/WavLLM
+- [SALMONN: Towards Generic Hearing Abilities for Large Language Models](https://arxiv.org/abs/2310.13289) (arxiv 2023) : https://github.com/bytedance/SALMONN
 
 ## GitHub
 
