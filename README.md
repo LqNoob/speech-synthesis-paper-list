@@ -106,6 +106,7 @@
 - safetensors: https://github.com/huggingface/safetensors
 - OpenDiloco: https://github.com/PrimeIntellect-ai/OpenDiloco
 - WeTextProcessing: https://github.com/wenet-e2e/WeTextProcessing
+- zed: https://github.com/zed-industries/zed
 
 ## Reference
 
