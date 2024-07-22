@@ -108,6 +108,7 @@
 - WeTextProcessing: https://github.com/wenet-e2e/WeTextProcessing
 - zed: https://github.com/zed-industries/zed
 - weekly: https://github.com/ljinkai/weekly
+- tinygrad: https://github.com/tinygrad/tinygrad
 
 ## Reference
 
