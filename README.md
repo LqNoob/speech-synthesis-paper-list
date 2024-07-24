@@ -78,6 +78,7 @@
 - [WavLLM: Towards Robust and Adaptive Speech Large Language Model](https://arxiv.org/abs/2404.00656) (arxiv 2024) : https://github.com/microsoft/SpeechT5/tree/main/WavLLM
 - [SALMONN: Towards Generic Hearing Abilities for Large Language Models](https://arxiv.org/abs/2310.13289) (arxiv 2023) : https://github.com/bytedance/SALMONN
 - [Spontaneous Style Text-to-Speech Synthesis with Controllable Spontaneous Behaviors Based on Language Models](https://arxiv.org/abs/2407.13509) (arxiv 2024 - Spontaneous)
+- [Stable Audio Open](https://arxiv.org/abs/2407.14358) (arxiv 2024) : https://huggingface.co/stabilityai/stable-audio-open-1.0
 
 ## GitHub
 
