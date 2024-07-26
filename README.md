@@ -91,6 +91,8 @@
 - Coqui: https://github.com/coqui-ai/TTS
 - MARS5-TTS: https://github.com/Camb-ai/MARS5-TTS
 - edge-tts: https://github.com/rany2/edge-tts
+- metavoice-src: https://github.com/metavoiceio/metavoice-src
+- StyleTTS2: https://github.com/yl4579/StyleTTS2
 - open-tts-tracker: https://github.com/Vaibhavs10/open-tts-tracker
 - Amphion: https://github.com/open-mmlab/Amphion
 - CTranslate2: https://github.com/OpenNMT/CTranslate2
