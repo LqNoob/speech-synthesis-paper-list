@@ -28,6 +28,7 @@
 - [Single-Codec: Single-Codebook Speech Codec towards High-Performance Speech Generation](https://www.arxiv.org/abs/2406.07422) (InterSpeech 2024)
 - [APCodec: A Neural Audio Codec with Parallel Amplitude and Phase Spectrum Encoding and Decoding](https://arxiv.org/abs/2402.10533) (arxiv 2024  - code comming soon) : https://github.com/YangAi520/APCodec
 - [dMel: Speech Tokenization made Simple](https://arxiv.org/abs/2407.15835) (arxiv 2024 - code comming soon)
+- [SuperCodec: A Neural Speech Codec with Selective Back-Projection Network](https://arxiv.org/abs/2407.20530) (arxiv 2024) : https://github.com/exercise-book-yq/Supercodec
 
 ## Zero-Shot TTS
 
