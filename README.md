@@ -120,6 +120,7 @@
 - zed: https://github.com/zed-industries/zed
 - weekly: https://github.com/ljinkai/weekly
 - tinygrad: https://github.com/tinygrad/tinygrad
+- ffmpeg-normalize: https://github.com/slhck/ffmpeg-normalize
 
 ## Reference
 
