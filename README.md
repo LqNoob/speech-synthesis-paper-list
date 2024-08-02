@@ -84,7 +84,8 @@
 - [Stable Audio Open](https://arxiv.org/abs/2407.14358) (arxiv 2024) : https://huggingface.co/stabilityai/stable-audio-open-1.0
 - [Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities](https://arxiv.org/abs/2402.01831) : https://github.com/NVIDIA/audio-flamingo
 - EmoLLM: https://github.com/SmartFlowAI/EmoLLM/blob/main/generate_data/tutorial.md
-
+- [Generative Expressive Conversational Speech Synthesis](https://arxiv.org/abs/2407.21491) (arxiv 2024 - comming soon) : https://github.com/walker-hyf/GPT-Talker
+ 
 ## GitHub
 
 - ChatTTS: https://github.com/2noise/ChatTTS/tree/main
