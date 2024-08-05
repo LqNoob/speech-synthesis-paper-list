@@ -55,6 +55,7 @@
 - [Robust Zero-Shot Text-to-Speech Synthesis with Reverse Inference Optimization](https://arxiv.org/abs/2407.02243) (arxiv 2024, Human FeedBack)
 - [CosyVoice: A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens](https://fun-audio-llm.github.io/pdf/CosyVoice_v1.pdf) (2024) : https://github.com/FunAudioLLM/CosyVoice
 - [FlashSpeech: Efficient Zero-Shot Speech Synthesis](https://arxiv.org/abs/2404.14700) (arxiv 2024 - code comming soon)
+- [Bailing-TTS: Chinese Dialectal Speech Synthesis Towards Human-like Spontaneous Representation](https://arxiv.org/abs/2408.00284) (arxiv 2024)
 
 ## Other
 
