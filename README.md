@@ -123,6 +123,8 @@
 - weekly: https://github.com/ljinkai/weekly
 - tinygrad: https://github.com/tinygrad/tinygrad
 - ffmpeg-normalize: https://github.com/slhck/ffmpeg-normalize
+- kohya_ss: https://github.com/bmaltais/kohya_ss
+- Lora-Training-in-Comfy: https://github.com/LarryJane491/Lora-Training-in-Comfy
 
 ## Reference
 
