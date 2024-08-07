@@ -16,7 +16,7 @@
 - [Addressing Index Collapse of Large-Codebook Speech Tokenizer with Dual-Decoding Product-Quantized Variational Auto-Encoder](https://arxiv.org/abs/2406.02940) (arxiv 2024)
 - [UniCATS: A Unified Context-Aware Text-to-Speech Framework with Contextual VQ-Diffusion and Vocoding](https://arxiv.org/abs/2306.07547v6) (AAAI 2024) : https://github.com/X-LANCE/UniCATS-CTX-vec2wav
 - [The X-LANCE Technical Report for Interspeech 2024 Speech Processing Using Discrete Speech Unit Challenge](https://arxiv.org/abs/2404.06079v2) (Interspeech 2024)
-- [BiVocoder: A Bidirectional Neural Vocoder Integrating Feature Extraction and Waveform Generation](https://arxiv.org/abs/2406.02162) (arxiv 2024) : https://redmist328.github.io/BiVcoder
+- [BiVocoder: A Bidirectional Neural Vocoder Integrating Feature Extraction and Waveform Generation](https://arxiv.org/abs/2406.02162) (arxiv 2024) : https://redmist328.github.io/BiVcoder_demo
 - [Generative Pre-trained Speech Language Model with Efficient Hierarchical Transformer](https://openreview.net/forum?id=TJNCnkDRkY) (ICLR 2024)
 - [Spectral Codecs: Spectrogram-Based Audio Codecs for High Quality Speech Synthesis](https://arxiv.org/abs/2406.05298) (arxiv 2024, FSQ) : https://github.com/NVIDIA/NeMo
 - [Finite Scalar Quantization: VQ-VAE Made Simple](https://openreview.net/forum?id=8ishA3LxN8) (FSQ, no codebook collapse) : https://github.com/google-research/google-research/tree/master/fsq
