@@ -87,6 +87,7 @@
 - EmoLLM: https://github.com/SmartFlowAI/EmoLLM/blob/main/generate_data/tutorial.md
 - [Generative Expressive Conversational Speech Synthesis](https://arxiv.org/abs/2407.21491) (arxiv 2024 - comming soon) : https://github.com/walker-hyf/GPT-Talker
 - [SpeechGPT2: End-to-End Human-Like Spoken Chatbot]() (comming soon) : https://github.com/0nutation/SpeechGPT
+- [Language Model Can Listen While Speaking](https://arxiv.org/abs/2408.02622)
  
 ## GitHub
 
