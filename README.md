@@ -129,6 +129,7 @@
 - Lora-Training-in-Comfy: https://github.com/LarryJane491/Lora-Training-in-Comfy
 - ComfyUI-Manager: https://github.com/ltdrdata/ComfyUI-Manager
 - ComfyUI: https://github.com/comfyanonymous/ComfyUI
+- CosyVoice+ComfyUI: https://github.com/AIFSH/CosyVoice-ComfyUI
 
 ## Reference
 
