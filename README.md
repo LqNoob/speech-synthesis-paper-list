@@ -31,6 +31,7 @@
 - [SuperCodec: A Neural Speech Codec with Selective Back-Projection Network](https://arxiv.org/abs/2407.20530) (arxiv 2024) : https://github.com/exercise-book-yq/Supercodec
 - [ESC: Efficient Speech Coding with Cross-Scale Residual Vector Quantized Transformers](https://arxiv.org/abs/2404.19441) (arxiv 2024) : https://github.com/yzGuu830/efficient-speech-codec
 - [Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models](https://arxiv.org/abs/2402.12208) (arxiv 2024) : https://github.com/jishengpeng/Languagecodec
+- [SimpleSpeech: Towards Simple and Efficient Text-to-Speech with Scalar Latent Transformer Diffusion Models](https://arxiv.org/abs/2406.02328) (arxiv 2024 - code comming soon) : https://github.com/yangdongchao/simplespeech
 
 ## Zero-Shot TTS
 
