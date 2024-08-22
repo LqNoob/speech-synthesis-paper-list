@@ -93,7 +93,8 @@
 - [SpeechGPT2: End-to-End Human-Like Spoken Chatbot]() (comming soon) : https://github.com/0nutation/SpeechGPT
 - [Language Model Can Listen While Speaking](https://arxiv.org/abs/2408.02622)
 - [VITA: Towards Open-Source Interactive Omni Multimodal LLM](https://www.arxiv.org/abs/2408.0211) (arxiv 2024 - code comming soon) : https://github.com/VITA-MLLM/VITA
-- [EELE: Exploring Efficient and Extensible LoRA Integration in Emotional Text-to-Speech](https://www.arxiv.org/abs/2408.10852) (arxiv 2024)
+- [EELE: Exploring Efficient and Extensible LoRA Integration in Emotional Text-to-Speech](https://www.arxiv.org/abs/2408.10852) (arxiv 2024 - LORA)
+- [SSL-TTS: Leveraging Self-Supervised Embeddings and kNN Retrieval for Zero-Shot Multi-speaker TTS](https://www.arxiv.org/abs/2408.10771) (arxiv 2024 - SSL)
  
 ## GitHub
 
