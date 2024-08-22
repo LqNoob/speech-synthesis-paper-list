@@ -136,6 +136,7 @@
 - ComfyUI: https://github.com/comfyanonymous/ComfyUI
 - CosyVoice+ComfyUI: https://github.com/AIFSH/CosyVoice-ComfyUI
 - tmux: https://github.com/tmux/tmux
+- LoRAlib: https://github.com/microsoft/LoRA
 
 ## Reference
 
