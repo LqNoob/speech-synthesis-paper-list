@@ -140,6 +140,7 @@
 - comfyui-workspace-manager: https://github.com/11cafe/comfyui-workspace-manager
 - CosyVoice+ComfyUI: https://github.com/AIFSH/CosyVoice-ComfyUI
 - ComfyUI-wiki: https://github.com/602387193c/ComfyUI-wiki
+- ZHO: https://github.com/ZHO-ZHO-ZHO
 - tmux: https://github.com/tmux/tmux
 - LoRAlib: https://github.com/microsoft/LoRA
 - codespaces: https://github.com/codespaces
