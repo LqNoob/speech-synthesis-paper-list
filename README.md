@@ -140,6 +140,7 @@
 - CosyVoice+ComfyUI: https://github.com/AIFSH/CosyVoice-ComfyUI
 - tmux: https://github.com/tmux/tmux
 - LoRAlib: https://github.com/microsoft/LoRA
+- codespaces: https://github.com/codespaces
 
 ## Reference
 
