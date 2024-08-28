@@ -97,6 +97,7 @@
 - [SSL-TTS: Leveraging Self-Supervised Embeddings and kNN Retrieval for Zero-Shot Multi-speaker TTS](https://www.arxiv.org/abs/2408.10771) (arxiv 2024 - SSL)
 - [Speech To Speech: an effort for an open-sourced and modular GPT4-o](https://github.com/huggingface/speech-to-speech) : https://github.com/huggingface/speech-to-speech
 - [Style-Talker: Finetuning Audio Language Model and StyleBased Text-to-Speech Model for Fast Spoken Dialogue Generation](https://arxiv.org/abs/2408.11849) (arxiv 2024 - code comming soon) : https://styletalker.github.io/
+- [DualSpeech: Enhancing Speaker-Fidelity and Text-Intelligibility Through Dual Classifier-Free Guidance](https://arxiv.org/abs/2408.14423) (arxiv 2024)
  
 ## GitHub
 
