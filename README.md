@@ -32,6 +32,7 @@
 - [ESC: Efficient Speech Coding with Cross-Scale Residual Vector Quantized Transformers](https://arxiv.org/abs/2404.19441) (arxiv 2024) : https://github.com/yzGuu830/efficient-speech-codec
 - [Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models](https://arxiv.org/abs/2402.12208) (arxiv 2024) : https://github.com/jishengpeng/Languagecodec
 - [SimpleSpeech: Towards Simple and Efficient Text-to-Speech with Scalar Latent Transformer Diffusion Models](https://arxiv.org/abs/2406.02328) (arxiv 2024 - code comming soon) : https://github.com/yangdongchao/simplespeech
+- [SimpleSpeech 2: Towards Simple and Efficient Text-to-Speech with Flow-based Scalar Latent Transformer Diffusion Models](https://arxiv.org/abs/2408.13893) (arxiv 2024) : https://dongchaoyang.top/SimpleSpeech2_demo/
 - [Music2Latent: Consistency Autoencoders for Latent Audio Compression](https://www.arxiv.org/abs/2408.06500) (arxiv 2024 - continuous latent space) : https://github.com/SonyCSLParis/music2latent
 
 ## Zero-Shot TTS
