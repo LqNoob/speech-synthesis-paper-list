@@ -61,7 +61,7 @@
 - [CosyVoice: A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens](https://fun-audio-llm.github.io/pdf/CosyVoice_v1.pdf) (2024) : https://github.com/FunAudioLLM/CosyVoice
 - [FlashSpeech: Efficient Zero-Shot Speech Synthesis](https://arxiv.org/abs/2404.14700) (arxiv 2024 - code comming soon) : https://github.com/zhenye234/FlashSpeech
 - [Bailing-TTS: Chinese Dialectal Speech Synthesis Towards Human-like Spontaneous Representation](https://arxiv.org/abs/2408.00284) (arxiv 2024)
-- [VoxInstruct: Expressive Human Instruction-to-Speech Generation with Unified Multilingual Codec Language Modelling]([https://openreview.net/forum?id=hQp6qimhbb](https://www.arxiv.org/abs/2408.15676) (mm2024 - code comming soon) : https://github.com/thuhcsi/VoxInstruct
+- [VoxInstruct: Expressive Human Instruction-to-Speech Generation with Unified Multilingual Codec Language Modelling](https://www.arxiv.org/abs/2408.15676) (mm2024 - code comming soon) : https://github.com/thuhcsi/VoxInstruct
 
 ## Other
 
