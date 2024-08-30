@@ -98,10 +98,10 @@
 - [StyleSpeech: Parameter-efficient Fine Tuning for Pre-trained Controllable Text-to-Speech](https://www.arxiv.org/abs/2408.14713) (arxiv 2024 - LORA)
 - [VoiceTailor: Lightweight Plug-In Adapter for Diffusion-Based Personalized Text-to-Speech](https://arxiv.org/abs/2408.14739) (arxiv 2024 - LORA)
 - [SSL-TTS: Leveraging Self-Supervised Embeddings and kNN Retrieval for Zero-Shot Multi-speaker TTS](https://www.arxiv.org/abs/2408.10771) (arxiv 2024 - SSL)
-- [Speech To Speech: an effort for an open-sourced and modular GPT4-o](https://github.com/huggingface/speech-to-speech) : https://github.com/huggingface/speech-to-speech
 - [Style-Talker: Finetuning Audio Language Model and StyleBased Text-to-Speech Model for Fast Spoken Dialogue Generation](https://arxiv.org/abs/2408.11849) (arxiv 2024 - code comming soon) : https://styletalker.github.io/
 - [DualSpeech: Enhancing Speaker-Fidelity and Text-Intelligibility Through Dual Classifier-Free Guidance](https://arxiv.org/abs/2408.14423) (arxiv 2024)
-- [2024/08] **Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming** [[paper](https://arxiv.org/abs/2408.16725)][[code](https://github.com/gpt-omni/mini-omni)] *end to end*
+- [2024/08] **Speech To Speech: an effort for an open-sourced and modular GPT4-o** [[code](https://github.com/huggingface/speech-to-speech)] *speech interaction model & End-to-End*
+- [2024/08] **Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming** [[paper](https://arxiv.org/abs/2408.16725)][[code](https://github.com/gpt-omni/mini-omni)] *speech interaction model & End-to-End*
  
 ## GitHub
 
