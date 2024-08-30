@@ -12,28 +12,27 @@
 - [2024/01] **SpeechTokenizer: Unified Speech Tokenizer for Speech Language Models** [[paper](https://openreview.net/forum?id=AF9Q8Vip84)][[code](https://github.com/ZhangXInFD/SpeechTokenizer)][[demo](https://0nutation.github.io/SpeechTokenizer.github.io/)]
 - [2024/04] **SemantiCodec: An Ultra Low Bitrate Semantic Audio Codec for General Sound** [[paper](https://arxiv.org/abs/2405.00233)][[code](https://github.com/haoheliu/SemantiCodec)][[demo](https://haoheliu.github.io/SemantiCodec/)]
 - [2024/05] **HILCodec: High Fidelity and Lightweight Neural Audio Codec** [[paper](https://arxiv.org/abs/2405.04752)][[code](https://github.com/aask1357/hilcodec)][[demo](https://aask1357.github.io/hilcodec/)]
-- [2024/06] **SimpleSpeech: Towards Simple and Efficient Text-to-Speech with Scalar Latent Transformer Diffusion Models** [[paper](https://arxiv.org/abs/2406.02328v2)][[code](https://github.com/yangdongchao/SimpleSpeech)][[demo](https://simplespeech.github.io/simplespeechDemo/)] *SQ-Codec*
 - [2024/06] **Addressing Index Collapse of Large-Codebook Speech Tokenizer with Dual-Decoding Product-Quantized Variational Auto-Encoder** [[paper](https://arxiv.org/abs/2406.02940)]
 - [2023/06] **UniCATS: A Unified Context-Aware Text-to-Speech Framework with Contextual VQ-Diffusion and Vocoding** [[paper](https://arxiv.org/abs/2306.07547v6)][[code](https://github.com/X-LANCE/UniCATS-CTX-vec2wav)][[demo](https://cpdu.github.io/unicats/)]
 - [2024/04] **The X-LANCE Technical Report for Interspeech 2024 Speech Processing Using Discrete Speech Unit Challenge** [[paper](https://arxiv.org/abs/2404.06079v2)]
 - [2024/06] **BiVocoder: A Bidirectional Neural Vocoder Integrating Feature Extraction and Waveform Generation** [[paper](https://arxiv.org/abs/2406.02162)][[demo](https://redmist328.github.io/BiVcoder_demo)]
-- [] [Generative Pre-trained Speech Language Model with Efficient Hierarchical Transformer](https://openreview.net/forum?id=TJNCnkDRkY) (ICLR 2024)
-- [] [Spectral Codecs: Spectrogram-Based Audio Codecs for High Quality Speech Synthesis](https://arxiv.org/abs/2406.05298) (arxiv 2024, FSQ) : https://github.com/NVIDIA/NeMo
-- [] [Finite Scalar Quantization: VQ-VAE Made Simple](https://openreview.net/forum?id=8ishA3LxN8) (FSQ, no codebook collapse) : https://github.com/google-research/google-research/tree/master/fsq
-- [] [X-Codec: Unified Audio Tokenizer for Audio Language Model]() (2024) : https://github.com/zhenye234/xcodec
-- [] [UniAudio 1.5: Large Language Model-driven Audio Codec is A Few-shot Audio Task Learner](https://arxiv.org/abs/2406.10056) (arxiv 2024) : https://github.com/yangdongchao/LLM-Codec
-- [] snac : https://github.com/hubertsiuzdak/snac
-- [] [Vocos: Closing the gap between time-domain and Fourier-based neural vocoders for high-quality audio synthesis](https://arxiv.org/abs/2306.00814) (arxiv 2023) : https://github.com/gemelo-ai/vocos
-- [] [CosyVoice: A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens](https://fun-audio-llm.github.io/pdf/CosyVoice_v1.pdf) (2024) : https://github.com/FunAudioLLM/CosyVoice
-- [] [Single-Codec: Single-Codebook Speech Codec towards High-Performance Speech Generation](https://www.arxiv.org/abs/2406.07422) (InterSpeech 2024)
-- [] [APCodec: A Neural Audio Codec with Parallel Amplitude and Phase Spectrum Encoding and Decoding](https://arxiv.org/abs/2402.10533) (arxiv 2024  - code comming soon) : https://github.com/YangAi520/APCodec
-- [] [dMel: Speech Tokenization made Simple](https://arxiv.org/abs/2407.15835) (arxiv 2024 - code comming soon)
-- [] [SuperCodec: A Neural Speech Codec with Selective Back-Projection Network](https://arxiv.org/abs/2407.20530) (arxiv 2024) : https://github.com/exercise-book-yq/Supercodec
-- [] [ESC: Efficient Speech Coding with Cross-Scale Residual Vector Quantized Transformers](https://arxiv.org/abs/2404.19441) (arxiv 2024) : https://github.com/yzGuu830/efficient-speech-codec
-- [] [Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models](https://arxiv.org/abs/2402.12208) (arxiv 2024) : https://github.com/jishengpeng/Languagecodec
-- [] [SimpleSpeech: Towards Simple and Efficient Text-to-Speech with Scalar Latent Transformer Diffusion Models](https://arxiv.org/abs/2406.02328) (arxiv 2024 - code comming soon) : https://github.com/yangdongchao/simplespeech
-- [] [SimpleSpeech 2: Towards Simple and Efficient Text-to-Speech with Flow-based Scalar Latent Transformer Diffusion Models](https://arxiv.org/abs/2408.13893) (arxiv 2024) : https://dongchaoyang.top/SimpleSpeech2_demo/
-- [] [Music2Latent: Consistency Autoencoders for Latent Audio Compression](https://www.arxiv.org/abs/2408.06500) (arxiv 2024 - continuous latent space) : https://github.com/SonyCSLParis/music2latent
+- [2023/09] **Generative Pre-trained Speech Language Model with Efficient Hierarchical Transformer** [[paper](https://openreview.net/forum?id=TJNCnkDRkY)]
+- [2024/06] **Spectral Codecs: Spectrogram-Based Audio Codecs for High Quality Speech Synthesis** [[paper](https://arxiv.org/abs/2406.05298)][[code](https://github.com/NVIDIA/NeMo)][[demo](https://rlangman.github.io/spectral-codec/)]
+- [2024/01] **Finite Scalar Quantization: VQ-VAE Made Simple** [[paper](https://openreview.net/forum?id=8ishA3LxN8)][[code](https://github.com/google-research/google-research/tree/master/fsq)] *FSQ, no codebook collapse*
+- [????/??] **X-Codec: Unified Audio Tokenizer for Audio Language Model** [[code](https://github.com/zhenye234/xcodec)] *paper comming soon*
+- [2024/06] **UniAudio 1.5: Large Language Model-driven Audio Codec is A Few-shot Audio Task Learner** [[paper](https://arxiv.org/abs/2406.10056)][[code](https://github.com/yangdongchao/LLM-Codec)] *LLM-Codec*
+- [2024/04] **SNAC: Multi-Scale Neural Audio Codec** [[code](https://github.com/hubertsiuzdak/snac)][[demo](https://hubertsiuzdak.github.io/snac/)]
+- [2023/06] **Vocos: Closing the gap between time-domain and Fourier-based neural vocoders for high-quality audio synthesis** [[paper](https://arxiv.org/abs/2306.00814)][[code](https://github.com/gemelo-ai/vocos)][[demo](https://gemelo-ai.github.io/vocos/)]
+- [2024/07] **CosyVoice: A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens** [[paper](https://fun-audio-llm.github.io/pdf/CosyVoice_v1.pdf)][[code](https://github.com/FunAudioLLM/CosyVoice)][[demo](https://fun-audio-llm.github.io/)]
+- [2024/06] **Single-Codec: Single-Codebook Speech Codec towards High-Performance Speech Generation** [[paper](https://www.arxiv.org/abs/2406.07422)][[demo](https://kkksuper.github.io/Single-Codec/)]
+- [2024/02] **APCodec: A Neural Audio Codec with Parallel Amplitude and Phase Spectrum Encoding and Decoding** [[paper](https://arxiv.org/abs/2402.10533)][[code](https://github.com/YangAi520/APCodec)] *code comming soon*
+- [2024/07] **dMel: Speech Tokenization made Simple** [[paper](https://arxiv.org/abs/2407.15835)] *code comming soon*
+- [2024/07] **SuperCodec: A Neural Speech Codec with Selective Back-Projection Network** [[paper](https://arxiv.org/abs/2407.20530)][[code](https://github.com/exercise-book-yq/Supercodec)][[demo](https://exercise-book-yq.github.io/SuperCodec-Demo/)]
+- [2024/04] **ESC: Efficient Speech Coding with Cross-Scale Residual Vector Quantized Transformers** [[paper](https://arxiv.org/abs/2404.19441)][[code](https://github.com/yzGuu830/efficient-speech-codec)]
+- [2024/02] **Language-Codec: Reducing the Gaps Between Discrete Codec Representation and Speech Language Models** [[paper](https://arxiv.org/abs/2402.12208)][[code](https://github.com/jishengpeng/Languagecodec)][[demo](https://languagecodec.github.io/)]
+- [2024/06] **SimpleSpeech: Towards Simple and Efficient Text-to-Speech with Scalar Latent Transformer Diffusion Models** [[paper](https://arxiv.org/abs/2406.02328v2)][[code](https://github.com/yangdongchao/SimpleSpeech)][[demo](https://simplespeech.github.io/simplespeechDemo/)] *SQ-Codec* | *Code Comming Soon*
+- [2024/08] **SimpleSpeech 2: Towards Simple and Efficient Text-to-Speech with Flow-based Scalar Latent Transformer Diffusion Models** [[paper](https://arxiv.org/abs/2408.13893)][[demo](https://dongchaoyang.top/SimpleSpeech2_demo/)]
+- [2024/08] **Music2Latent: Consistency Autoencoders for Latent Audio Compression** [[paper](https://www.arxiv.org/abs/2408.06500)][[code](https://github.com/SonyCSLParis/music2latent)][[demo](https://sonycslparis.github.io/music2latent-companion/)] *continuous latent space*
 
 ## Zero-Shot TTS
 
