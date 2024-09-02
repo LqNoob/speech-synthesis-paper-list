@@ -65,38 +65,38 @@
 
 ## Other
 
-- [Instruct-MusicGen: Unlocking Text-to-Music Editing for Music Language Models via Instruction Tuning](https://arxiv.org/abs/2405.18386v2) (arxiv 2024) : https://github.com/ldzhangyx/instruct-MusicGen
-- [StoryTTS: A Highly Expressive Text-to-Speech Dataset with Rich Textual Expressiveness Annotations](https://arxiv.org/abs/2404.14946) (ICASSP 2024) : https://github.com/X-LANCE/StoryTTS
-- [CoVoMix: Advancing Zero-Shot Speech Generation for Human-like Multi-talker Conversations](https://arxiv.org/abs/2404.06690) (arxiv 2024 - multi-round dialogue speech generation)
-- [SpeechAlign: Aligning Speech Generation to Human Preferences](https://arxiv.org/abs/2404.05600) (arxiv 2024 - Human Feedback) : https://github.com/0nutation/SpeechGPT
-- [Enhancing Zero-shot Text-to-Speech Synthesis with Human Feedback](https://www.arxiv.org/abs/2406.00654) (arxiv 2024 - Human Feedback)
-- [Seed-TTS: A Family of High-Quality Versatile Speech Generation Models](https://arxiv.org/abs/2406.02430) (arxiv 2024) : https://bytedancespeech.github.io/seedtts_tech_report/
-- [WenetSpeech4TTS: A 12,800-hour Mandarin TTS Corpus for Large Speech Generation Model Benchmark](https://arxiv.org/abs/2406.05763v2) (arxiv 2024) : https://huggingface.co/Wenetspeech4TTS
-- [Natural language guidance of high-fidelity text-to-speech with synthetic annotations](https://arxiv.org/abs/2402.01912) (Prompt Control) : https://github.com/huggingface/parler-tts
-- [Simple and Controllable Music Generation](https://arxiv.org/abs/2306.05284) (Prompt Control) : https://github.com/facebookresearch/audiocraft
-- [Speak, Read and Prompt: High-Fidelity Text-to-Speech with Minimal Supervision](https://arxiv.org/abs/2302.03540) : https://github.com/collabora/WhisperSpeech
-- [High Fidelity Text-to-Speech Via Discrete Tokens Using Token Transducer and Group Masked Language Model](https://arxiv.org/abs/2406.17310) (Transducer/End-to-End)
-- [VALL-T: Decoder-Only Generative Transducer for Robust and Decoding-Controllable Text-to-Speech](https://arxiv.org/abs/2401.14321) (Transducer)
-- [Utilizing Neural Transducers for Two-Stage Text-to-Speech via Semantic Token Prediction](https://arxiv.org/abs/2401.01498) (Transducer/End-to-End)
-- [Improving Robustness of LLM-based Speech Synthesis by Learning Monotonic Alignment](https://arxiv.org/abs/2406.17957v1) (Monotonic Alignment)
-- EmotiVoice: https://github.com/netease-youdao/EmotiVoice
-- [AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling](https://arxiv.org/abs/2402.12226) (arxiv 2024) : https://github.com/OpenMOSS/AnyGPT
-- [Speech-Copilot: Leveraging Large Language Models for Speech Processing via Task Decomposition, Modularization, and Program Generation](https://arxiv.org/abs/2407.09886) (arxiv 2024) : ?? https://github.com/kuan2jiu99 (code coming soon)
-- [Qwen2-Audio Technical Report](https://www.arxiv.org/abs/2407.10759) (arxiv 2024) : https://github.com/QwenLM/Qwen2-Audio (code coming soon)
-- [Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models](https://arxiv.org/abs/2311.07919) (arxiv 2023) : https://github.com/QwenLM/Qwen-Audio
-- [WavLLM: Towards Robust and Adaptive Speech Large Language Model](https://arxiv.org/abs/2404.00656) (arxiv 2024) : https://github.com/microsoft/SpeechT5/tree/main/WavLLM
-- [SALMONN: Towards Generic Hearing Abilities for Large Language Models](https://arxiv.org/abs/2310.13289) (arxiv 2023) : https://github.com/bytedance/SALMONN
-- [GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities](https://arxiv.org/abs/2406.11768) (arxiv 2024) : https://github.com/Sreyan88/GAMA
-- [Spontaneous Style Text-to-Speech Synthesis with Controllable Spontaneous Behaviors Based on Language Models](https://arxiv.org/abs/2407.13509) (arxiv 2024 - Spontaneous)
-- [Stable Audio Open](https://arxiv.org/abs/2407.14358) (arxiv 2024) : https://huggingface.co/stabilityai/stable-audio-open-1.0
-- [Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities](https://arxiv.org/abs/2402.01831) : https://github.com/NVIDIA/audio-flamingo
-- EmoLLM: https://github.com/SmartFlowAI/EmoLLM/blob/main/generate_data/tutorial.md
-- [EELE: Exploring Efficient and Extensible LoRA Integration in Emotional Text-to-Speech](https://www.arxiv.org/abs/2408.10852) (arxiv 2024 - LORA)
-- [StyleSpeech: Parameter-efficient Fine Tuning for Pre-trained Controllable Text-to-Speech](https://www.arxiv.org/abs/2408.14713) (arxiv 2024 - LORA)
-- [VoiceTailor: Lightweight Plug-In Adapter for Diffusion-Based Personalized Text-to-Speech](https://arxiv.org/abs/2408.14739) (arxiv 2024 - LORA)
-- [SSL-TTS: Leveraging Self-Supervised Embeddings and kNN Retrieval for Zero-Shot Multi-speaker TTS](https://www.arxiv.org/abs/2408.10771) (arxiv 2024 - SSL)
-- [Style-Talker: Finetuning Audio Language Model and StyleBased Text-to-Speech Model for Fast Spoken Dialogue Generation](https://arxiv.org/abs/2408.11849) (arxiv 2024 - code comming soon) : https://styletalker.github.io/
-- [DualSpeech: Enhancing Speaker-Fidelity and Text-Intelligibility Through Dual Classifier-Free Guidance](https://arxiv.org/abs/2408.14423) (arxiv 2024)
+- [2024/05] **Instruct-MusicGen: Unlocking Text-to-Music Editing for Music Language Models via Instruction Tuning** [[paper](https://arxiv.org/abs/2405.18386v2)][[code](https://github.com/ldzhangyx/instruct-MusicGen)][[demo](https://foul-ice-5ea.notion.site/Instruct-MusicGen-Demo-Page-a1e7d8d474f74df18bda9539d96687ab)] *Instruction Tuning*
+- [2024/04] **StoryTTS: A Highly Expressive Text-to-Speech Dataset with Rich Textual Expressiveness Annotations** [[paper](https://arxiv.org/abs/2404.14946)][[code](https://github.com/X-LANCE/StoryTTS)][[demo](https://goarsenal.github.io/StoryTTS/)] *Lian Liru(连丽如) dataset*
+- [2024/04] **CoVoMix: Advancing Zero-Shot Speech Generation for Human-like Multi-talker Conversations** [[paper](https://arxiv.org/abs/2404.06690)][[demo](https://www.microsoft.com/en-us/research/project/covomix/)] *multi-round dialogue speech generation*
+- [2024/04] **SpeechAlign: Aligning Speech Generation to Human Preferences** [[paper](https://arxiv.org/abs/2404.05600)][[code](https://github.com/0nutation/SpeechGPT)][[demo](https://0nutation.github.io/SpeechAlign.github.io/)] *Human Feedback*
+- [2024/06] **Enhancing Zero-shot Text-to-Speech Synthesis with Human Feedback** [[paper](https://www.arxiv.org/abs/2406.00654)] *Human Feedback*
+- [2024/06] **Seed-TTS: A Family of High-Quality Versatile Speech Generation Models** [[paper](https://arxiv.org/abs/2406.02430)][[demo](https://bytedancespeech.github.io/seedtts_tech_report/)]
+- [2024/06] **WenetSpeech4TTS: A 12,800-hour Mandarin TTS Corpus for Large Speech Generation Model Benchmark** [[paper](https://arxiv.org/abs/2406.05763v2)][[demo](https://huggingface.co/Wenetspeech4TTS)]
+- [2024/02] **Natural language guidance of high-fidelity text-to-speech with synthetic annotations** [[paper](https://arxiv.org/abs/2402.01912)][[code](https://github.com/huggingface/parler-tts)][[demo](https://www.text-description-to-speech.com/)] *Prompt Control | Parler-TTS*
+- [2023/06] **Simple and Controllable Music Generation** [[paper](https://arxiv.org/abs/2306.05284)][[code](https://github.com/facebookresearch/audiocraft)] *Prompt Control | AudioCraft*
+- [2023/02] **Speak, Read and Prompt: High-Fidelity Text-to-Speech with Minimal Supervision** [[paper](https://arxiv.org/abs/2302.03540)][[code](https://github.com/collabora/WhisperSpeech)][[demo](https://collabora.github.io/WhisperSpeech/)] *SpearTTS | WhisperSpeech*
+- [2024/06] **High Fidelity Text-to-Speech Via Discrete Tokens Using Token Transducer and Group Masked Language Model** [[paper](https://arxiv.org/abs/2406.17310)][[demo](https://srtts.github.io/interpreting-speaking/)] *Transducer/End-to-End*
+- [2024/01] **VALL-T: Decoder-Only Generative Transducer for Robust and Decoding-Controllable Text-to-Speech** [[paper](https://arxiv.org/abs/2401.14321)][[code](https://github.com/cpdu/vallt)][[demo](https://cpdu.github.io/vallt/)] *code comming soon | Transducer*
+- [2024/01] **Utilizing Neural Transducers for Two-Stage Text-to-Speech via Semantic Token Prediction** [[paper](https://arxiv.org/abs/2401.01498)][[code](https://gannnn123.github.io/token-transducer/)] *Transducer/End-to-End*
+- [2024/06] **Improving Robustness of LLM-based Speech Synthesis by Learning Monotonic Alignment** [[paper](https://arxiv.org/abs/2406.17957v1)][[demo](https://t5tts.github.io/)] *Monotonic Alignment*
+- [2024/01] EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine [[code](https://github.com/netease-youdao/EmotiVoice)]
+- [2024/07] **Spontaneous Style Text-to-Speech Synthesis with Controllable Spontaneous Behaviors Based on Language Models** [[paper](https://arxiv.org/abs/2407.13509)][[demo](https://thuhcsi.github.io/interspeech2024-SponLMTTS/)] *Spontaneous*
+- [2024/07] **Stable Audio Open** [[paper](https://arxiv.org/abs/2407.14358)] [[code](https://huggingface.co/stabilityai/stable-audio-open-1.0)]
+- [2024/02] **Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities** [[paper](https://arxiv.org/abs/2402.01831)][[code](https://github.com/NVIDIA/audio-flamingo)][[demo](https://audioflamingo.github.io/)]
+- [2024/05] **EmoLLM(心理健康大模型)** [[code](https://github.com/SmartFlowAI/EmoLLM/blob/main/generate_data/tutorial.md)][[demo](https://openxlab.org.cn/apps/detail/Farewell1/EmoLLMV2.0)]
+- [2024/08] **EELE: Exploring Efficient and Extensible LoRA Integration in Emotional Text-to-Speech** [[paper](https://www.arxiv.org/abs/2408.10852)] *LORA*
+- [2024/08] **StyleSpeech: Parameter-efficient Fine Tuning for Pre-trained Controllable Text-to-Speech** [[paper](https://www.arxiv.org/abs/2408.14713)][[demo](https://style-speech.vercel.app/)] *LORA*
+- [2024/08] **VoiceTailor: Lightweight Plug-In Adapter for Diffusion-Based Personalized Text-to-Speech** [[paper](https://arxiv.org/abs/2408.14739)][[demo](https://voicetailor.github.io/)] *LORA*
+- [2024/08] **SSL-TTS: Leveraging Self-Supervised Embeddings and kNN Retrieval for Zero-Shot Multi-speaker TTS** [[paper](https://www.arxiv.org/abs/2408.10771)][[demo](https://www.arxiv.org/abs/2408.10771)] *SSL*
+- [2024/08] **Style-Talker: Finetuning Audio Language Model and StyleBased Text-to-Speech Model for Fast Spoken Dialogue Generation** [[paper](https://arxiv.org/abs/2408.11849)][[demo](https://styletalker.github.io/)] *code comming soon*
+- [2024/08] **DualSpeech: Enhancing Speaker-Fidelity and Text-Intelligibility Through Dual Classifier-Free Guidance** [[paper](https://arxiv.org/abs/2408.14423)][[demo](https://dualspeech.notion.site/DualSpeech-Demo-25fcf06ea94b4a739094d828d400542d)]
+- [2023/10] **SALMONN: Towards Generic Hearing Abilities for Large Language Models** [[paper](https://arxiv.org/abs/2310.13289)][[code](https://github.com/bytedance/SALMONN)]
+- [2024/03] **WavLLM: Towards Robust and Adaptive Speech Large Language Model** [[paper](https://arxiv.org/abs/2404.00656)][[code](https://github.com/microsoft/SpeechT5/tree/main/WavLLM)]
+- [2024/02] **AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling** [[paper](https://arxiv.org/abs/2402.12226)][[code](https://github.com/OpenMOSS/AnyGPT)][[demo](https://junzhan2000.github.io/AnyGPT.github.io/)]
+- [2023/11] **Qwen-Audio: Advancing Universal Audio Understanding via Unified Large-Scale Audio-Language Models** [[paper](https://arxiv.org/abs/2311.07919)][[code](https://github.com/QwenLM/Qwen-Audio)] *speech interaction model*
+- [2024/07] **Qwen2-Audio Technical Report** [[paper](https://www.arxiv.org/abs/2407.10759)][[code](https://github.com/QwenLM/Qwen2-Audio)] *speech interaction model*
+- [2024/07] **Speech-Copilot: Leveraging Large Language Models for Speech Processing via Task Decomposition, Modularization, and Program Generation** [[paper](https://arxiv.org/abs/2407.09886)][[code](https://github.com/kuan2jiu99)][[demo](https://sites.google.com/view/slt2024-demo-page)] *code coming soon | speech interaction model*
+- [2024/06] **GAMA: A Large Audio-Language Model with Advanced Audio Understanding and Complex Reasoning Abilities** [[paper](https://arxiv.org/abs/2406.11768)][[code](https://github.com/Sreyan88/GAMA)][[demo](https://sreyan88.github.io/gamaaudio/)]
 - [2024/07] **Generative Expressive Conversational Speech Synthesis** [[paper](https://arxiv.org/abs/2407.21491)][[code](https://github.com/walker-hyf/GPT-Talker)] *code comming soon*
 - [????/??] **SpeechGPT2: End-to-End Human-Like Spoken Chatbot** [[paper]()][[code](https://github.com/0nutation/SpeechGPT)][[demo](https://0nutation.github.io/SpeechGPT2.github.io/)] *paper & code comming soon | speech interaction model*
 - [2024/08] **Language Model Can Listen While Speaking** [[paper](https://arxiv.org/abs/2408.02622)][[demo](https://ziyang.tech/LSLM/)] *Full Duplex Modeling | speech interaction model*
@@ -104,8 +104,11 @@
 - [2024/08] **Speech To Speech: an effort for an open-sourced and modular GPT4-o** [[code](https://github.com/huggingface/speech-to-speech)] *End-to-End | speech interaction model*
 - [2024/08] **Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming** [[paper](https://arxiv.org/abs/2408.16725)][[code](https://github.com/gpt-omni/mini-omni)] *End-to-End | speech interaction model*
  
-## GitHub
+## Minor Points of Concern
 
+<details>
+<summary>GitHub</summary>
+ 
 - ChatTTS: https://github.com/2noise/ChatTTS/tree/main
 - OpenVoice: https://github.com/myshell-ai/OpenVoice
 - GPT-SoVITS: https://github.com/RVC-Boss/GPT-SoVITS
@@ -124,9 +127,11 @@
 - bark: https://github.com/suno-ai/bark
 - LangGPT: https://github.com/langgptai/LangGPT (提示词工程)
 - composio: https://github.com/ComposioHQ/composio
+</details>
 
-## Nice Tool
-
+<details>
+<summary>Nice Tool</summary>
+ 
 - pytorch-OpCounter: https://github.com/Lyken17/pytorch-OpCounter
 - rich: https://github.com/Textualize/rich
 - argbind: https://github.com/pseeth/argbind/
@@ -152,6 +157,7 @@
 - tmux: https://github.com/tmux/tmux
 - LoRAlib: https://github.com/microsoft/LoRA
 - codespaces: https://github.com/codespaces
+</details>
 
 ## Reference
 
