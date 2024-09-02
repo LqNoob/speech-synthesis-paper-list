@@ -91,18 +91,18 @@
 - [Stable Audio Open](https://arxiv.org/abs/2407.14358) (arxiv 2024) : https://huggingface.co/stabilityai/stable-audio-open-1.0
 - [Audio Flamingo: A Novel Audio Language Model with Few-Shot Learning and Dialogue Abilities](https://arxiv.org/abs/2402.01831) : https://github.com/NVIDIA/audio-flamingo
 - EmoLLM: https://github.com/SmartFlowAI/EmoLLM/blob/main/generate_data/tutorial.md
-- [Generative Expressive Conversational Speech Synthesis](https://arxiv.org/abs/2407.21491) (arxiv 2024 - comming soon) : https://github.com/walker-hyf/GPT-Talker
-- [SpeechGPT2: End-to-End Human-Like Spoken Chatbot]() (comming soon) : https://github.com/0nutation/SpeechGPT
-- [Language Model Can Listen While Speaking](https://arxiv.org/abs/2408.02622)
-- [VITA: Towards Open-Source Interactive Omni Multimodal LLM](https://www.arxiv.org/abs/2408.0211) (arxiv 2024 - code comming soon) : https://github.com/VITA-MLLM/VITA
 - [EELE: Exploring Efficient and Extensible LoRA Integration in Emotional Text-to-Speech](https://www.arxiv.org/abs/2408.10852) (arxiv 2024 - LORA)
 - [StyleSpeech: Parameter-efficient Fine Tuning for Pre-trained Controllable Text-to-Speech](https://www.arxiv.org/abs/2408.14713) (arxiv 2024 - LORA)
 - [VoiceTailor: Lightweight Plug-In Adapter for Diffusion-Based Personalized Text-to-Speech](https://arxiv.org/abs/2408.14739) (arxiv 2024 - LORA)
 - [SSL-TTS: Leveraging Self-Supervised Embeddings and kNN Retrieval for Zero-Shot Multi-speaker TTS](https://www.arxiv.org/abs/2408.10771) (arxiv 2024 - SSL)
 - [Style-Talker: Finetuning Audio Language Model and StyleBased Text-to-Speech Model for Fast Spoken Dialogue Generation](https://arxiv.org/abs/2408.11849) (arxiv 2024 - code comming soon) : https://styletalker.github.io/
 - [DualSpeech: Enhancing Speaker-Fidelity and Text-Intelligibility Through Dual Classifier-Free Guidance](https://arxiv.org/abs/2408.14423) (arxiv 2024)
-- [2024/08] **Speech To Speech: an effort for an open-sourced and modular GPT4-o** [[code](https://github.com/huggingface/speech-to-speech)] *speech interaction model & End-to-End*
-- [2024/08] **Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming** [[paper](https://arxiv.org/abs/2408.16725)][[code](https://github.com/gpt-omni/mini-omni)] *speech interaction model & End-to-End*
+- [2024/07] **Generative Expressive Conversational Speech Synthesis** [[paper](https://arxiv.org/abs/2407.21491)][[code](https://github.com/walker-hyf/GPT-Talker)] *code comming soon*
+- [????/??] **SpeechGPT2: End-to-End Human-Like Spoken Chatbot** [[paper]()][[code](https://github.com/0nutation/SpeechGPT)][[demo](https://0nutation.github.io/SpeechGPT2.github.io/)] *paper & code comming soon | speech interaction model*
+- [2024/08] **Language Model Can Listen While Speaking** [[paper](https://arxiv.org/abs/2408.02622)][[demo](https://ziyang.tech/LSLM/)] *Full Duplex Modeling | speech interaction model*
+- [2024/08] **VITA: Towards Open-Source Interactive Omni Multimodal LLM** [[paper](https://www.arxiv.org/abs/2408.05211)][[code](https://github.com/VITA-MLLM/VITA)][[demo](https://vita-home.github.io/)] *code comming soon | speech interaction model*
+- [2024/08] **Speech To Speech: an effort for an open-sourced and modular GPT4-o** [[code](https://github.com/huggingface/speech-to-speech)] *End-to-End | speech interaction model*
+- [2024/08] **Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming** [[paper](https://arxiv.org/abs/2408.16725)][[code](https://github.com/gpt-omni/mini-omni)] *End-to-End | speech interaction model*
  
 ## GitHub
 
