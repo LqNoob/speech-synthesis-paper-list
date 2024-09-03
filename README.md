@@ -1,3 +1,7 @@
+# Content
+- [speech synthesis paper list](speech-synthesis-paper-list)
+
+
 # speech synthesis paper list
 
 - [2021/07] **SoundStream: An End-to-End Neural Audio Codec** [[paper](https://arxiv.org/abs/2107.03312)][[code](https://github.com/google/lyra)][[demo](https://google-research.github.io/seanet/soundstream/examples/)]
