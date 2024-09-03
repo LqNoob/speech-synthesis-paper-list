@@ -39,30 +39,30 @@
 
 ## Zero-Shot TTS
 
-- [Voiceflow: Efficient text-to-speech with rectified flow matching](https://arxiv.org/abs/2309.05027v2) (ICASSP 2024) : https://github.com/X-LANCE/VoiceFlow-TTS
-- [Voicebox: Text-guided multilingual universal speech generation at scale](https://openreview.net/forum?id=gzCS252hCO) (NeurIPS 2023)
-- [Matcha-tts: A fast tts architecture with conditional flow matching](https://arxiv.org/abs/2309.03199v2) (ICASSP 2024) : https://github.com/shivammehta25/Matcha-TTS
-- [Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers](https://arxiv.org/abs/2301.02111v1) (arxiv 2023 - VALL-E) : https://github.com/microsoft/unilm
-- [VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild](https://arxiv.org/abs/2403.16973v2) (arxiv 2024 - VoiceCraft) : https://github.com/jasonppy/VoiceCraft
-- [NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers](https://openreview.net/forum?id=Rc7dAwVL3v) (ICLR 2024)
-- [NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models](https://arxiv.org/abs/2403.03100v3) (arxiv 2024)
-- [Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis](https://openreview.net/forum?id=mvMI3N4AvD) (ICLR 2024)
-- [HAM-TTS: Hierarchical Acoustic Modeling for Token-Based Zero-Shot Text-to-Speech with Model and Data Scaling](https://arxiv.org/abs/2403.05989) (arxiv 2024)
-- [ControlSpeech: Towards Simultaneous Zero-shot Speaker Cloning and Zero-shot Language Style Control With Decoupled Codec](https://arxiv.org/abs/2406.01205) (arxiv 2024) : https://github.com/jishengpeng/ControlSpeech
-- [XTTS: a Massively Multilingual Zero-Shot Text-to-Speech Model](https://arxiv.org/abs/2406.04904) (arxiv 2024) : https://edresson.github.io/XTTS/
-- [VALL-E 2: Neural Codec Language Models are Human Parity Zero-Shot Text to Speech Synthesizers](https://arxiv.org/abs/2406.05370) (arxiv 2024)
-- [Autoregressive Diffusion Transformer for Text-to-Speech Synthesis](https://www.arxiv.org/abs/2406.05551) (arxiv 2024) : https://ardit-tts.github.io/
-- [Better speech synthesis through scaling](https://arxiv.org/abs/2305.07243) (arxiv 2023) : https://github.com/neonbjb/tortoise-tts
-- [VALL-E R: Robust and Efficient Zero-Shot Text-to-Speech Synthesis via Monotonic Alignment](https://arxiv.org/abs/2406.07855) (arxiv 2024)
-- [DiTTo-TTS: Efficient and Scalable Zero-Shot Text-to-Speech with Diffusion Transformer](https://arxiv.org/abs/2406.11427) (arxiv 2024)
-- [CLaM-TTS: Improving Neural Codec Language Model for Zero-Shot Text-to-Speech](https://openreview.net/forum?id=ofzeypWosV) (ICLR 2024)
-- [TacoLM: GaTed Attention Equipped Codec Language Model are Efficient Zero-Shot Text to Speech Synthesizers](https://arxiv.org/abs/2406.15752) (arxiv 2024) : https://github.com/Ereboas/TacoLM
-- [HierSpeech++: Bridging the Gap between Semantic and Acoustic Representation of Speech by Hierarchical Variational Inference for Zero-shot Speech Synthesis](https://arxiv.org/abs/2311.12454) : https://github.com/sh-lee-prml/HierSpeechpp
-- [E2 TTS: Embarrassingly Easy Fully Non-Autoregressive Zero-Shot TTS](https://arxiv.org/abs/2406.18009) (arxiv 2024, similar to Seed-TTS)
-- [Robust Zero-Shot Text-to-Speech Synthesis with Reverse Inference Optimization](https://arxiv.org/abs/2407.02243) (arxiv 2024, Human FeedBack)
-- [CosyVoice: A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens](https://fun-audio-llm.github.io/pdf/CosyVoice_v1.pdf) (2024) : https://github.com/FunAudioLLM/CosyVoice
-- [FlashSpeech: Efficient Zero-Shot Speech Synthesis](https://arxiv.org/abs/2404.14700) (arxiv 2024 - code comming soon) : https://github.com/zhenye234/FlashSpeech
-- [Bailing-TTS: Chinese Dialectal Speech Synthesis Towards Human-like Spontaneous Representation](https://arxiv.org/abs/2408.00284) (arxiv 2024)
+- [2023/05] **Better speech synthesis through scaling** [[paper](https://arxiv.org/abs/2305.07243)][[code](https://github.com/neonbjb/tortoise-tts)] *tortoise-tts*
+- [2023/09] **Voiceflow: Efficient text-to-speech with rectified flow matching** [[paper](https://arxiv.org/abs/2309.05027v2)][[code](https://github.com/X-LANCE/VoiceFlow-TTS)][[demo](https://cantabile-kwok.github.io/VoiceFlow/)]
+- [2023/09] **Voicebox: Text-guided multilingual universal speech generation at scale** [[paper](https://openreview.net/forum?id=gzCS252hCO)][[demo](https://voicebox.metademolab.com/)]
+- [2023/09] **Matcha-tts: A fast tts architecture with conditional flow matching** [[paper](https://arxiv.org/abs/2309.03199v2)][[code](https://github.com/shivammehta25/Matcha-TTS)][[demo](https://shivammehta25.github.io/Matcha-TTS/)]
+- [2023/01] **Neural Codec Language Models are Zero-Shot Text to Speech Synthesizers** [[paper](https://arxiv.org/abs/2301.02111v1)][[code](https://github.com/microsoft/unilm)][[demo](https://www.microsoft.com/en-us/research/project/vall-e-x/)] *VALL-E*
+- [2024/03] **VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild** [[paper](https://arxiv.org/abs/2403.16973v2)][[code](https://github.com/jasonppy/VoiceCraft)][[demo](https://jasonppy.github.io/VoiceCraft_web/)]
+- [2024/01] **NaturalSpeech 2: Latent Diffusion Models are Natural and Zero-Shot Speech and Singing Synthesizers** [[paper](https://openreview.net/forum?id=Rc7dAwVL3v)][[demo](https://speechresearch.github.io/naturalspeech2/)]
+- [2024/03] **NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models** [[paper](https://arxiv.org/abs/2403.03100v3)][[demo](https://speechresearch.github.io/naturalspeech3/)]
+- [2024/01] **Mega-TTS 2: Boosting Prompting Mechanisms for Zero-Shot Speech Synthesis** [[paper](https://openreview.net/forum?id=mvMI3N4AvD)][[demo](https://boostprompt.github.io/boostprompt/)]
+- [2024/03] **HAM-TTS: Hierarchical Acoustic Modeling for Token-Based Zero-Shot Text-to-Speech with Model and Data Scaling** [[paper](https://arxiv.org/abs/2403.05989)][[demo](https://anonymous.4open.science/w/ham-tts/)]
+- [2024/06] **ControlSpeech: Towards Simultaneous Zero-shot Speaker Cloning and Zero-shot Language Style Control With Decoupled Codec** [[paper](https://arxiv.org/abs/2406.01205)][[code](https://github.com/jishengpeng/ControlSpeech)][[demo](https://controlspeech.github.io/)]
+- [2024/06] **XTTS: a Massively Multilingual Zero-Shot Text-to-Speech Model** [[paper](https://arxiv.org/abs/2406.04904)][[code](https://github.com/coqui-ai/TTS/tree/main)][[demo](https://edresson.github.io/XTTS/)]
+- [2024/06] **VALL-E 2: Neural Codec Language Models are Human Parity Zero-Shot Text to Speech Synthesizers** [[paper](https://arxiv.org/abs/2406.05370)][[demo](https://www.microsoft.com/en-us/research/project/vall-e-x/vall-e-2/)]
+- [2024/06] **Autoregressive Diffusion Transformer for Text-to-Speech Synthesis** [[paper](https://www.arxiv.org/abs/2406.05551)][[demo](https://ardit-tts.github.io/)]
+- [2024/06] **VALL-E R: Robust and Efficient Zero-Shot Text-to-Speech Synthesis via Monotonic Alignment** [[paper](https://arxiv.org/abs/2406.07855)][[demo](https://www.microsoft.com/en-us/research/project/vall-e-x/vall-e-r/)]
+- [2024/06] **DiTTo-TTS: Efficient and Scalable Zero-Shot Text-to-Speech with Diffusion Transformer** [[paper](https://arxiv.org/abs/2406.11427)][[demo](https://ditto-tts.github.io/)]
+- [2024/01] **CLaM-TTS: Improving Neural Codec Language Model for Zero-Shot Text-to-Speech** [[paper](https://openreview.net/forum?id=ofzeypWosV)][[demo](https://clam-tts.github.io/)]
+- [2024/06] **TacoLM: GaTed Attention Equipped Codec Language Model are Efficient Zero-Shot Text to Speech Synthesizers** [[paper](https://arxiv.org/abs/2406.15752)][[code](https://github.com/Ereboas/TacoLM)][[demo](https://ereboas.github.io/TacoLM/)]
+- [2023/11] **HierSpeech++: Bridging the Gap between Semantic and Acoustic Representation of Speech by Hierarchical Variational Inference for Zero-shot Speech Synthesis** [[paper](https://arxiv.org/abs/2311.12454)][[code](https://github.com/sh-lee-prml/HierSpeechpp)][[demo](https://sh-lee-prml.github.io/HierSpeechpp-demo/)]
+- [2024/06] **E2 TTS: Embarrassingly Easy Fully Non-Autoregressive Zero-Shot TTS** [[paper](https://arxiv.org/abs/2406.18009)][[demo](https://www.microsoft.com/en-us/research/project/e2-tts/)] *similar to Seed-TTS*
+- [2024/07] **Robust Zero-Shot Text-to-Speech Synthesis with Reverse Inference Optimization** [[paper](https://arxiv.org/abs/2407.02243)][[demo](https://yuchen005.github.io/RIO-TTS-demos/)] *Human FeedBack*
+- [2024/07] **CosyVoice: A Scalable Multilingual Zero-shot Text-to-speech Synthesizer based on Supervised Semantic Tokens** [[paper](https://fun-audio-llm.github.io/pdf/CosyVoice_v1.pdf)] [[code](https://github.com/FunAudioLLM/CosyVoice)][[demo](https://funaudiollm.github.io/)]
+- [2024/04] **FlashSpeech: Efficient Zero-Shot Speech Synthesis** [[paper](https://arxiv.org/abs/2404.14700)][[code](https://github.com/zhenye234/FlashSpeech)][[demo](https://flashspeech.github.io/)] *code comming soon*
+- [2024/08] **Bailing-TTS: Chinese Dialectal Speech Synthesis Towards Human-like Spontaneous Representation** [[paper](https://arxiv.org/abs/2408.00284)][[demo](https://c9412600.github.io/bltts_tech_report/index.html)]
 - [2024/08] **VoxInstruct: Expressive Human Instruction-to-Speech Generation with Unified Multilingual Codec Language Modelling** [[paper](https://www.arxiv.org/abs/2408.15676)][code](https://github.com/thuhcsi/VoxInstruct)][[demo](https://voxinstruct.github.io/VoxInstruct/)] *code comming soon*
 
 ## Other
