@@ -166,6 +166,8 @@
 - tmux: https://github.com/tmux/tmux
 - LoRAlib: https://github.com/microsoft/LoRA
 - codespaces: https://github.com/codespaces
+- Foliate(PDF): https://johnfactotum.github.io/foliate/
+- Okular(PDF): https://okular.kde.org/zh-cn/
 </details>
 
 ## Reference
