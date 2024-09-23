@@ -45,6 +45,7 @@
 - [2024/08] **WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling** [[paper](https://arxiv.org/abs/2408.16532)][[code](https://github.com/jishengpeng/WavTokenizer)][[demo](https://wavtokenizer.github.io/)] :heavy_check_mark:
 - [2024/08] **Codec Does Matter: Exploring the Semantic Shortcoming of Codec for Audio Language Model** [[paper](https://arxiv.org/abs/2408.17175)][[code](https://github.com/zhenye234/xcodec)][[demo](https://x-codec-audio.github.io/)] *X-Codec* :heavy_check_mark:
 - [2024/09] **SoCodec: A Semantic-Ordered Multi-Stream Speech Codec for Efficient Language Model Based Text-to-Speech Synthesis** [[paper](https://arxiv.org/abs/2409.00933)][[code](https://github.com/hhguo/SoCodec)][[demo](https://hhguo.github.io/DemoSoCodec/)] *Code Comming Soon*
+- [2024/09] **Speaking from Coarse to Fine: Improving Neural Codec Language Model via Multi-Scale Speech Coding and Generation** [[paper](https://arxiv.org/abs/2409.11630v1)][[demo](https://hhguo.github.io/DemoCoFiSpeech/)] *CoFiSpeech*
 
 ## Zero-Shot TTS
 
