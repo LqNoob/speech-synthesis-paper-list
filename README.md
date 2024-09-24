@@ -48,7 +48,7 @@
 - [2024/09] **Speaking from Coarse to Fine: Improving Neural Codec Language Model via Multi-Scale Speech Coding and Generation** [[paper](https://arxiv.org/abs/2409.11630v1)][[demo](https://hhguo.github.io/DemoCoFiSpeech/)] *CoFi-Speech*
 - [2024/09] **NDVQ: Robust Neural Audio Codec with Normal Distribution-Based Vector Quantization** [[paper](https://arxiv.org/abs/2409.12717)]
 - [2024/09] **Audio Codec Augmentation for Robust Collaborative Watermarking of Speech Synthesis** [[paper](https://arxiv.org/abs/2409.13382)][[code](https://github.com/ljuvela/collaborative-watermarking-with-codecs)][[demo](https://ljuvela.github.io/collaborative-watermarking-with-codecs-demo/)] *Watermarking* :heavy_check_mark:
-- [2024/09] **MuCodec: Ultra Low-Bitrate Music Codec** [[paper](https://arxiv.org/abs/2409.13216)][[code](https://github.com/xuyaoxun/MuCodec)][[demo](https://xuyaoxun.github.io/MuCodec_demo/)] *code comming soon*
+- [2024/09] **MuCodec: Ultra Low-Bitrate Music Codec** [[paper](https://arxiv.org/abs/2409.13216)][[code](https://github.com/xuyaoxun/MuCodec)][[demo](https://xuyaoxun.github.io/MuCodec_demo/)] *Code Comming Soon* | *Music Codec*
 
 ## Zero-Shot TTS
 
