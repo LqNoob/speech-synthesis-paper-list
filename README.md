@@ -122,6 +122,8 @@
 - [2024/08] **Speech To Speech: an effort for an open-sourced and modular GPT4-o** [[code](https://github.com/huggingface/speech-to-speech)] *End-to-End | speech interaction model* :heavy_check_mark:
 - [2024/08] **Mini-Omni: Language Models Can Hear, Talk While Thinking in Streaming** [[paper](https://arxiv.org/abs/2408.16725)][[code](https://github.com/gpt-omni/mini-omni)] *End-to-End | speech interaction model* :heavy_check_mark:
 - [2024/09] **FLUX that Plays Music** [[paper](https://arxiv.org/abs/2409.00587)][[code](https://github.com/feizc/FluxMusic)][[melodio](https://www.melodio.ai/)] *music generation | KunLun* :heavy_check_mark:
+- [2024/09] **LLaMA-Omni: Seamless Speech Interaction with Large Language Models** [[paper](https://arxiv.org/abs/2409.06666)][[code](https://github.com/ictnlp/LLaMA-Omni)][[demo](https://replicate.com/ictnlp/llama-omni)] :heavy_check_mark:
+- [2024/09] **Moshi: a speech-text foundation model for real time dialogue** [[paper](https://kyutai.org/Moshi.pdf)][[code](https://github.com/kyutai-labs/moshi)][[demo](https://moshi.chat/)] *low delay* :heavy_check_mark:
  
 ## Minor Points of Concern
 
