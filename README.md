@@ -135,6 +135,7 @@
 - ChatTTS: https://github.com/2noise/ChatTTS/tree/main
 - OpenVoice: https://github.com/myshell-ai/OpenVoice
 - GPT-SoVITS: https://github.com/RVC-Boss/GPT-SoVITS
+- Bert-vits2-NoBug: https://github.com/ywh-my/Bert-vits2-NoBug
 - VoiceCraft: https://github.com/jasonppy/VoiceCraft
 - YourTTS: https://github.com/Edresson/YourTTS
 - Coqui: https://github.com/coqui-ai/TTS
