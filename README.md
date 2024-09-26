@@ -49,6 +49,7 @@
 - [2024/09] **NDVQ: Robust Neural Audio Codec with Normal Distribution-Based Vector Quantization** [[paper](https://arxiv.org/abs/2409.12717)]
 - [2024/09] **Audio Codec Augmentation for Robust Collaborative Watermarking of Speech Synthesis** [[paper](https://arxiv.org/abs/2409.13382)][[code](https://github.com/ljuvela/collaborative-watermarking-with-codecs)][[demo](https://ljuvela.github.io/collaborative-watermarking-with-codecs-demo/)] *Watermarking* :heavy_check_mark:
 - [2024/09] **MuCodec: Ultra Low-Bitrate Music Codec** [[paper](https://arxiv.org/abs/2409.13216)][[code](https://github.com/xuyaoxun/MuCodec)][[demo](https://xuyaoxun.github.io/MuCodec_demo/)] *Code Comming Soon* | *Music Codec*
+- [2024/09] **ESPnet-Codec: Comprehensive Training and Evaluation of Neural Codecs for Audio, Music, and Speech** [[paper](https://arxiv.org/abs/2409.15897)][[code](https://github.com/espnet/espnet/tree/master/egs2/TEMPLATE/codec1)] *Comprehensive Platform* :heavy_check_mark:
 
 ## Zero-Shot TTS
 
