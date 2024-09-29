@@ -128,7 +128,7 @@
 - [2024/09] **LLaMA-Omni: Seamless Speech Interaction with Large Language Models** [[paper](https://arxiv.org/abs/2409.06666)][[code](https://github.com/ictnlp/LLaMA-Omni)][[demo](https://replicate.com/ictnlp/llama-omni)] *only english* :heavy_check_mark:
 - [2024/09] **Moshi: a speech-text foundation model for real time dialogue** [[paper](https://kyutai.org/Moshi.pdf)][[code](https://github.com/kyutai-labs/moshi)][[demo](https://moshi.chat/)] *low delay* | *only english* :heavy_check_mark:
 - [2022/10] **Flow Matching for Generative Modeling** [[paper](https://arxiv.org/abs/2210.02747)] *Conditional Flow Matching*
-- [2023/02] **Improving and generalizing flow-based generative models with minibatch optimal transport** [[paper](https://arxiv.org/abs/2302.00482)][[code](https://github.com/atong01/conditional-flow-matching)] *TorchCFM* :heavy_check_mark:
+- [2023/02] **Improving and generalizing flow-based generative models with minibatch optimal transport** [[paper](https://arxiv.org/abs/2302.00482)][[code](https://github.com/atong01/conditional-flow-matching)] *TorchCFM* | *Tutorials* :heavy_check_mark:
 - [2024/09] **Description-based Controllable Text-to-Speech with Cross-Lingual Voice Control** [[paper](https://arxiv.org/abs/2409.17452)][[demo](https://r9y9.github.io/projects/nansyttspp/)]
 - [2024/09] **Westlake-Omni: Open-Source Chinese Emotional Speech Interaction Large Language Model with Unified Discrete Sequence Modeling** [[code](https://github.com/xinchen-ai/Westlake-Omni)] :heavy_check_mark:
 
