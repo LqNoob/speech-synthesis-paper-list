@@ -152,6 +152,7 @@
 - VoiceCraft: https://github.com/jasonppy/VoiceCraft
 - YourTTS: https://github.com/Edresson/YourTTS
 - Coqui: https://github.com/coqui-ai/TTS
+- ebook2audiobookXTTS: https://github.com/DrewThomasson/ebook2audiobookXTTS
 - MARS5-TTS: https://github.com/Camb-ai/MARS5-TTS
 - edge-tts: https://github.com/rany2/edge-tts
 - metavoice-src: https://github.com/metavoiceio/metavoice-src
