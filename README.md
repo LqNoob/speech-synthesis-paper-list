@@ -52,7 +52,7 @@
 - [2024/09] **MuCodec: Ultra Low-Bitrate Music Codec** [[paper](https://arxiv.org/abs/2409.13216)][[code](https://github.com/xuyaoxun/MuCodec)][[demo](https://xuyaoxun.github.io/MuCodec_demo/)] *Code Comming Soon* | *Music Codec*
 - [2024/09] **ESPnet-Codec: Comprehensive Training and Evaluation of Neural Codecs for Audio, Music, and Speech** [[paper](https://arxiv.org/abs/2409.15897)][[code](https://github.com/espnet/espnet/tree/master/egs2/TEMPLATE/codec1)] *Comprehensive Platform* :heavy_check_mark:
 - [2024/09] **FlowMAC: Conditional Flow Matching for Audio Coding at Low Bit Rates** [[paper](https://arxiv.org/abs/2409.17635)]  *Flow Matching*
-- [2024/09] **Reverse Engineering of Supervised Semantic Speech Tokenizer (S3Tokenizer) proposed in CosyVoice** [[code](https://github.com/xingchensong/S3Tokenizer)] *S3Tokenizer*
+- [2024/09] **Reverse Engineering of Supervised Semantic Speech Tokenizer (S3Tokenizer) proposed in CosyVoice** [[code](https://github.com/xingchensong/S3Tokenizer)] *S3Tokenizer* :heavy_check_mark:
 
 ## Zero-Shot TTS
 
