@@ -165,6 +165,7 @@
 - bark: https://github.com/suno-ai/bark
 - LangGPT: https://github.com/langgptai/LangGPT (提示词工程)
 - composio: https://github.com/ComposioHQ/composio
+- torchdiffeq: https://github.com/rtqichen/torchdiffeq
 </details>
 
 <details>
