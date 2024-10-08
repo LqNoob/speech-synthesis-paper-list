@@ -53,7 +53,7 @@
 - [2024/09] **ESPnet-Codec: Comprehensive Training and Evaluation of Neural Codecs for Audio, Music, and Speech** [[paper](https://arxiv.org/abs/2409.15897)][[code](https://github.com/espnet/espnet/tree/master/egs2/TEMPLATE/codec1)] *Comprehensive Platform* :heavy_check_mark:
 - [2024/09] **FlowMAC: Conditional Flow Matching for Audio Coding at Low Bit Rates** [[paper](https://arxiv.org/abs/2409.17635)]  *Flow Matching*
 - [2024/09] **Reverse Engineering of Supervised Semantic Speech Tokenizer (S3Tokenizer) proposed in CosyVoice** [[code](https://github.com/xingchensong/S3Tokenizer)] *S3Tokenizer* :heavy_check_mark:
-- [2024/10] **Analyzing and Mitigating Inconsistency in Discrete Audio Tokens for Neural Codec Language Models** [[paper](https://arxiv.org/abs/2409.19283)][[demo](https://consistencyinneuralcodec.github.io/)]
+- [2024/10] **Analyzing and Mitigating Inconsistency in Discrete Audio Tokens for Neural Codec Language Models** [[paper](https://arxiv.org/abs/2409.19283)][[demo](https://consistencyinneuralcodec.github.io/)] *Inconsistency*
 
 ## Zero-Shot TTS
 
