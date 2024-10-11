@@ -86,6 +86,7 @@
 - [2024/09] **MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer** [[paper](https://arxiv.org/abs/2409.00750)][[demo](https://maskgct.github.io/)] *Masked Generative Model* | *Similar to Seed-TTS*
 - [2024/09] **FireRedTTS: A Foundation Text-To-Speech Framework for Industry-Level Generative Speech Applications** [[paper](https://www.arxiv.org/abs/2409.03283)][[code](https://github.com/FireRedTeam/FireRedTTS)][[demo](https://fireredteam.github.io/demos/firered_tts/)] *voice cloning for dubbing and human-like speech generation for chatbots* :heavy_check_mark:
 - [2024/09] **Takin: A Cohort of Superior Quality Zero-shot Speech Generation Models** [[paper](https://arxiv.org/abs/2409.12139)][[demo](https://takinaudiollm.github.io/)]
+- [2024/10] **F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching** [[paper](https://arxiv.org/abs/2410.06885)][[code](https://github.com/SWivid/F5-TTS)][[demo](https://swivid.github.io/F5-TTS/)] :heavy_check_mark:
 
 ## Other
 
