@@ -149,7 +149,7 @@
 
 - [2024/07] **Emilia: An extensive, multilingual, and diverse speech dataset for large-scale speech generation** [[paper](https://arxiv.org/abs/2407.05361)][[code](https://github.com/open-mmlab/Amphion/tree/main/preprocessors/Emilia)][[demo](https://emilia-dataset.github.io/Emilia-Demo-Page/)][[dataset](https://huggingface.co/datasets/amphion/Emilia-Dataset)] :heavy_check_mark:
 - [2024/06] **WenetSpeech4TTS: A 12,800-hour Mandarin TTS corpus for large speech generation model benchmark** [[paper](https://arxiv.org/abs/2406.05763)][[demo](https://wenetspeech4tts.github.io/wenetspeech4tts/)][[dataset](https://huggingface.co/datasets/Wenetspeech4TTS/WenetSpeech4TTS)] :heavy_check_mark:
-- [[2024/] **Didispeech: A large scale Mandarin speech corpus** [[paper](https://arxiv.org/abs/2010.09275)][[code](https://github.com/athena-team/DiDiSpeech)][[demo](https://athena-team.github.io/DiDiSpeech/)][[dataset](??)] 
+- [2020/10] **Didispeech: A large scale Mandarin speech corpus** [[paper](https://arxiv.org/abs/2010.09275)][[code](https://github.com/athena-team/DiDiSpeech)][[demo](https://athena-team.github.io/DiDiSpeech/)][[dataset](??)] 
 
 
 ## Minor Points of Concern
