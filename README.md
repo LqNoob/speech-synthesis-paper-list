@@ -56,6 +56,8 @@
 - [2024/10] **Analyzing and Mitigating Inconsistency in Discrete Audio Tokens for Neural Codec Language Models** [[paper](https://arxiv.org/abs/2409.19283)][[demo](https://consistencyinneuralcodec.github.io/)] *Inconsistency*
 - [2024/09] **BigCodec: Pushing the Limits of Low-Bitrate Neural Speech Codec** [[paper](https://arxiv.org/abs/2409.05377)][[code](https://github.com/Aria-K-Alethia/BigCodec)][[demo](https://aria-k-alethia.github.io/bigcodec-demo/)]  *low-bitrate neural speech codec*  :heavy_check_mark:
 - [2024/10] **Low Bitrate High-Quality RVQGAN-based Discrete Speech Tokenizer** [[paper](https://arxiv.org/abs/2410.08325)][[code](https://huggingface.co/ibm/DAC.speech.v1.0)][[demo](https://s3.us-south.objectstorage.softlayer.net/zk-wav-data/Webpages/SpeechDAC_IS2024/index.html)] *finetuned-version of DAC* :heavy_check_mark:
+- [2021/10] **WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing** [[paper](https://arxiv.org/abs/2110.13900)][[code](https://github.com/microsoft/unilm/tree/master/wavlm)] *semantic information* :heavy_check_mark:
+- [2021/06] **HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units** [[paper](https://arxiv.org/abs/2106.07447)][[code](https://github.com/facebookresearch/fairseq/tree/main/examples/hubert)] *semantic information* :heavy_check_mark:
 
 ## Zero-Shot TTS
 
