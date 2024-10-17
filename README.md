@@ -59,6 +59,7 @@
 - [2020/06] **wav2vec 2.0: A Framework for Self-Supervised Learning of Speech Representations** [[paper](https://arxiv.org/abs/2006.11477)][[code](https://github.com/facebookresearch/fairseq/tree/main/examples/wav2vec)] :heavy_check_mark:
 - [2021/06] **HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units** [[paper](https://arxiv.org/abs/2106.07447)][[code](https://github.com/facebookresearch/fairseq/tree/main/examples/hubert)] *semantic information & content generation* :heavy_check_mark:
 - [2021/10] **WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing** [[paper](https://arxiv.org/abs/2110.13900)][[code](https://github.com/microsoft/unilm/tree/master/wavlm)] *semantic information & content generation* :heavy_check_mark:
+- [2024/10] **Code Drift: Towards Idempotent Neural Audio Codecs** [[paper](https://arxiv.org/abs/2410.11025)][[demo](https://oreillyp.github.io/codedrift/)] *Idempotence – the stability of a codec’s decoded output under multiple rounds of encoding and decoding*
 
 
 ## Zero-Shot TTS
