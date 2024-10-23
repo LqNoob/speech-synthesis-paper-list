@@ -61,6 +61,7 @@
 - [2021/10] **WavLM: Large-Scale Self-Supervised Pre-Training for Full Stack Speech Processing** [[paper](https://arxiv.org/abs/2110.13900)][[code](https://github.com/microsoft/unilm/tree/master/wavlm)] *semantic information & content generation* :heavy_check_mark:
 - [2024/10] **Code Drift: Towards Idempotent Neural Audio Codecs** [[paper](https://arxiv.org/abs/2410.11025)][[demo](https://oreillyp.github.io/codedrift/)] *Idempotence – the stability of a codec’s decoded output under multiple rounds of encoding and decoding*
 - [2024/10] **ERVQ: Enhanced Residual Vector Quantization with Intra-and-Inter-Codebook Optimization for Neural Audio Codecs** [[paper](https://arxiv.org/abs/2410.12359)][[demo](https://anonymous.4open.science/w/ERVQ-A907/)] *address codebook collapse based on intra- and inter-codebook optimization*
+- [2024/10] **DM-Codec: Distilling Multimodal Representations for Speech Tokenization** [[paper](https://arxiv.org/abs/2410.15017)][[code](https://github.com/mubtasimahasan/DM-Codec)] *acoustic properties, semantic meaning, and contextual clues* :heavy_check_mark:
 
 
 ## Zero-Shot TTS
