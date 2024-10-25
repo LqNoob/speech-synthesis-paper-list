@@ -192,6 +192,8 @@
 - LangGPT: https://github.com/langgptai/LangGPT (提示词工程)
 - composio: https://github.com/ComposioHQ/composio
 - torchdiffeq: https://github.com/rtqichen/torchdiffeq
+- podlm: https://github.com/lihuithe/podlm-public (NoteBookLM 的平替)
+- dify: https://github.com/langgenius/dify (开源的 LLM 应用开发平台)
 </details>
 
 <details>
