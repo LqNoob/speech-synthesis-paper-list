@@ -194,6 +194,7 @@
 - composio: https://github.com/ComposioHQ/composio
 - torchdiffeq: https://github.com/rtqichen/torchdiffeq
 - podlm: https://github.com/lihuithe/podlm-public (NoteBookLM 的平替)
+- NotebookLlama: https://github.com/meta-llama/llama-recipes/recipes/quickstart/NotebookLlama (类似 NoteBookLM)
 - dify: https://github.com/langgenius/dify (开源的 LLM 应用开发平台)
 </details>
 
