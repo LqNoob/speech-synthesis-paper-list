@@ -99,6 +99,7 @@
 - [2024/10] **F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching** [[paper](https://arxiv.org/abs/2410.06885)][[code](https://github.com/SWivid/F5-TTS)][[demo](https://swivid.github.io/F5-TTS/)] :heavy_check_mark:
 - [2023/05] **Better speech synthesis through scaling** [[paper](https://arxiv.org/abs/2305.07243)][[code](https://github.com/neonbjb/tortoise-tts)][[blog](https://nonint.com/2022/06/18/lab-notes-cheater-latents/)] *Tortoise TTS* :heavy_check_mark:
 - [2024/10] **SPIRIT LM: Interleaved Spoken and Written Language Model** [[paper](https://arxiv.org/abs/2402.05755)][[code](https://github.com/facebookresearch/spiritlm)][[demo](https://speechbot.github.io/spiritlm/)] :heavy_check_mark:
+- [2024/10] **STTATTS: Unified Speech-To-Text And Text-To-Speech Model** [[paper](https://arxiv.org/abs/2410.18607)][[code](https://github.com/mbzuai-nlp/sttatts)]
 
 ## Other
 
