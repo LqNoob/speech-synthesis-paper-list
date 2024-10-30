@@ -172,6 +172,8 @@
 
 - **Anthropic courses** [[github](https://github.com/anthropics/courses)]
 - **LLM101n: Let's build a Storyteller** [[github](https://github.com/karpathy/LLM101n)]
+- **Build a Large Language Model (From Scratch)** [[github](https://github.com/rasbt/LLMs-from-scratch)]
+- **build nanoGPT from Karpathy** [[github](https://github.com/karpathy/build-nanogpt)]
 
 
 ## Minor Points of Concern
