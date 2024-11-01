@@ -65,6 +65,7 @@
 - [2024/10] **DM-Codec: Distilling Multimodal Representations for Speech Tokenization** [[paper](https://arxiv.org/abs/2410.15017)][[code](https://github.com/mubtasimahasan/DM-Codec)] *acoustic properties, semantic meaning, and contextual clues* :heavy_check_mark:
 - [2024/10] **LSCodec: Low-Bandwidth and Speaker-Decoupled Discrete Speech Codec** [[paper](https://arxiv.org/abs/2410.15764)][[demo](https://cantabile-kwok.github.io/LSCodec/)] *speaker timbre decouple*
 - [2024/10] **Optimizing Neural Speech Codec for Low-Bitrate Compression via Multi-Scale Encoding** [[paper](https://arxiv.org/abs/2410.15749)][[demo](https://tencentgamemate.github.io/MsCodec-Demo/)] *MsCodec, Multi-Scale Encoding*
+- [2024/10] **APCodec+: A Spectrum-Coding-Based High-Fidelity and High-Compression-Rate Neural Audio Codec with Staged Training Paradigm** [[paper](https://arxiv.org/abs/2410.22807)][[demo](https://redmist328.github.io/APCodecPlus-demo/)] *two-stage joint-individual training paradigm*
 
 
 ## Zero-Shot TTS
