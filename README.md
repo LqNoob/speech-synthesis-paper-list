@@ -67,6 +67,7 @@
 - [2024/10] **Optimizing Neural Speech Codec for Low-Bitrate Compression via Multi-Scale Encoding** [[paper](https://arxiv.org/abs/2410.15749)][[demo](https://tencentgamemate.github.io/MsCodec-Demo/)] *MsCodec, Multi-Scale Encoding*
 - [2024/10] **APCodec+: A Spectrum-Coding-Based High-Fidelity and High-Compression-Rate Neural Audio Codec with Staged Training Paradigm** [[paper](https://arxiv.org/abs/2410.22807)][[demo](https://redmist328.github.io/APCodecPlus-demo/)] *two-stage joint-individual training paradigm*
 - [2024/10] **A Closer Look at Neural Codec Resynthesis: Bridging the Gap between Codec and Waveform Generation** [[paper](https://arxiv.org/abs/2410.22448)][[demo](https://alexander-h-liu.github.io/codec-resyn.github.io/)] *Is predicting the remaining RVQ codes necessary?*
+- [2024/11] **DC-Spin: A Speaker-invariant Speech Tokenizer for Spoken Language Models** [[paper](https://arxiv.org/abs/2410.24177)] *Double-Codebook Speaker-invariant Clustering*
 
 
 ## Zero-Shot TTS
