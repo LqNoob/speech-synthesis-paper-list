@@ -69,6 +69,7 @@
 - [2024/10] **A Closer Look at Neural Codec Resynthesis: Bridging the Gap between Codec and Waveform Generation** [[paper](https://arxiv.org/abs/2410.22448)][[demo](https://alexander-h-liu.github.io/codec-resyn.github.io/)] *Is predicting the remaining RVQ codes necessary?*
 - [2024/11] **DC-Spin: A Speaker-invariant Speech Tokenizer for Spoken Language Models** [[paper](https://arxiv.org/abs/2410.24177)] *Double-Codebook Speaker-invariant Clustering*
 - [2024/10] **Pushing the frontiers of audio generation** [[blog](https://deepmind.google/discover/blog/pushing-the-frontiers-of-audio-generation/)] *google deepmind*
+- [2024/11] **MDCTCodec: A Lightweight MDCT-based Neural Audio Codec towards High Sampling Rate and Low Bitrate Scenarios** [[paper](https://arxiv.org/abs/2411.00464)][[demo](https://pb20000090.github.io/MDCTCodecSLT2024/)] *discrete cosine transform (MDCT) as input*
 
 
 ## Zero-Shot TTS
@@ -156,6 +157,7 @@
 - [2024/10] **IntrinsicVoice: Empowering LLMs with Intrinsic Real-time Voice Interaction Abilities** [[paper](https://arxiv.org/abs/2410.08035)][[demo](https://instrinsicvoice.github.io/)] *reducing the length difference between speech and text*
 - [2024/10] **Mini-Omni2: Towards Open-source GPT-4o with Vision, Speech and Duplex Capabilities** [[paper](https://arxiv.org/abs/2410.11190)][[code](https://github.com/gpt-omni/mini-omni2)] :heavy_check_mark:
 - [2024/10] **GLM-4-Voice** [[code](https://github.com/THUDM/GLM-4-Voice)] *speech interaction model & emotion, intonation, speech rate, and dialect & low latency* :heavy_check_mark:
+- [2024/11] **Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM** [[paper](https://arxiv.org/abs/2411.00774)][[demo](https://freeze-omni.github.io/)][[code](https://github.com/VITA-MLLM/Freeze-Omni)] *frozen llm in training* :heavy_check_mark:
 
 
 ## Music Generation
