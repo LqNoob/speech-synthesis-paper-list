@@ -73,6 +73,8 @@
 - [2024/11] **SimVQ: Addressing Representation Collapse in Vector Quantized Models with One Linear Layer** [[paper](https://arxiv.org/abs/2411.02038)][[code](https://github.com/youngsheen/SimVQ)] *codebook collapse* :heavy_check_mark:
 - [2024/11] **hertz-dev** [[code](https://github.com/Standard-Intelligence/hertz-dev)] *WaveCodec* :heavy_check_mark:
 - [2024/11] **Universal Speech Token Learning via Low-Bitrate Neural Codec and Pretrained Representations** [[paper](https://ieeexplore.ieee.org/abstract/document/10738376?casa_token=eWtmSXEr4AEAAAAA:FzYuQIESJ2LXwl9smJQe3RakpDUFuJ-AS0d39ZDlhsI0tBVX_8P7hu4a59yZezz7hpYd3VomUDo)] *UniCodec* ｜ *several information-disentangled discrete tokens, similar to ns3_codec*
+- [2024/11] **Towards Codec-LM Co-design for Neural Codec Language Models** [[paper](https://openreview.net/forum?id=KCVv3tICvp)] *Code Comming Soon* | *proposing several codec-LM co-design strategies*
+- [2024/11] **Scaling Transformers for Low-Bitrate High-Quality Speech Coding** [[paper](https://openreview.net/forum?id=4YpMrGfldX)][[demo](https://taae-iclr-2025.github.io/taae_anonymised/)]
 
 
 ## Zero-Shot TTS
