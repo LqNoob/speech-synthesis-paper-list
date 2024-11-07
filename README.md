@@ -162,6 +162,8 @@
 - [2024/10] **GLM-4-Voice** [[code](https://github.com/THUDM/GLM-4-Voice)] *speech interaction model & emotion, intonation, speech rate, and dialect & low latency* :heavy_check_mark:
 - [2024/11] **Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM** [[paper](https://arxiv.org/abs/2411.00774)][[demo](https://freeze-omni.github.io/)][[code](https://github.com/VITA-MLLM/Freeze-Omni)] *frozen llm in training* :heavy_check_mark:
 - [2024/11] **hertz-dev** [[code](https://github.com/Standard-Intelligence/hertz-dev)] :heavy_check_mark:
+- [2024/11] **LLaMA-O1: Open Large Reasoning Model Frameworks For Training, Inference and Evaluation With PyTorch and HuggingFace** [[code](https://github.com/SimpleBerry/LLaMA-O1)] :heavy_check_mark:
+- [2024/11] **O1 Replication Journey: A Strategic Progress Report -- Part 1** [[paper](https://arxiv.org/abs/2410.18982)][[code](https://github.com/GAIR-NLP/O1-Journey/)] :heavy_check_mark:
 
 
 ## Music Generation
