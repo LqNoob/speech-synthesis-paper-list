@@ -75,6 +75,7 @@
 - [2024/11] **Universal Speech Token Learning via Low-Bitrate Neural Codec and Pretrained Representations** [[paper](https://ieeexplore.ieee.org/abstract/document/10738376?casa_token=eWtmSXEr4AEAAAAA:FzYuQIESJ2LXwl9smJQe3RakpDUFuJ-AS0d39ZDlhsI0tBVX_8P7hu4a59yZezz7hpYd3VomUDo)] *UniCodec* ｜ *several information-disentangled discrete tokens, similar to ns3_codec*
 - [2024/11] **Towards Codec-LM Co-design for Neural Codec Language Models** [[paper](https://openreview.net/forum?id=KCVv3tICvp)] *Code Comming Soon* | *proposing several codec-LM co-design strategies*
 - [2024/11] **Scaling Transformers for Low-Bitrate High-Quality Speech Coding** [[paper](https://openreview.net/forum?id=4YpMrGfldX)][[demo](https://taae-iclr-2025.github.io/taae_anonymised/)] *Code Comming Soon* | *transformer-based and scale it into 1B parameter range*
+- [2024/11] **VChangeCodec: A High-efficiency Neural Speech Codec with Built-in Voice Changer for Real-time Communication** [[paper](https://openreview.net/forum?id=qDSfOQBrOD)] *integrates the Voice Changer model directly into the speech Codec*
 
 
 ## Zero-Shot TTS
