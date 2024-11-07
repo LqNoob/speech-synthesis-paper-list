@@ -72,7 +72,7 @@
 - [2024/11] **MDCTCodec: A Lightweight MDCT-based Neural Audio Codec towards High Sampling Rate and Low Bitrate Scenarios** [[paper](https://arxiv.org/abs/2411.00464)][[demo](https://pb20000090.github.io/MDCTCodecSLT2024/)] *discrete cosine transform (MDCT) as input*
 - [2024/11] **SimVQ: Addressing Representation Collapse in Vector Quantized Models with One Linear Layer** [[paper](https://arxiv.org/abs/2411.02038)][[code](https://github.com/youngsheen/SimVQ)] *codebook collapse* :heavy_check_mark:
 - [2024/11] **hertz-dev** [[code](https://github.com/Standard-Intelligence/hertz-dev)] *WaveCodec* :heavy_check_mark:
-- [2024/11] **Universal Speech Token Learning via Low-Bitrate Neural Codec and Pretrained Representations** [[paper](https://ieeexplore.ieee.org/abstract/document/10738376?casa_token=eWtmSXEr4AEAAAAA:FzYuQIESJ2LXwl9smJQe3RakpDUFuJ-AS0d39ZDlhsI0tBVX_8P7hu4a59yZezz7hpYd3VomUDo)] *UniCodec*
+- [2024/11] **Universal Speech Token Learning via Low-Bitrate Neural Codec and Pretrained Representations** [[paper](https://ieeexplore.ieee.org/abstract/document/10738376?casa_token=eWtmSXEr4AEAAAAA:FzYuQIESJ2LXwl9smJQe3RakpDUFuJ-AS0d39ZDlhsI0tBVX_8P7hu4a59yZezz7hpYd3VomUDo)] *UniCodec* ｜ *several information-disentangled discrete tokens*
 
 
 ## Zero-Shot TTS
