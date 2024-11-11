@@ -258,6 +258,7 @@
 - codespaces: https://github.com/codespaces
 - Foliate(PDF): https://johnfactotum.github.io/foliate/
 - Okular(PDF): https://okular.kde.org/zh-cn/
+- audioFlux: https://github.com/libAudioFlux/audioFlux
 </details>
 
 ## Reference
