@@ -260,6 +260,7 @@
 - Okular(PDF): https://okular.kde.org/zh-cn/
 - audioFlux: https://github.com/libAudioFlux/audioFlux
 - PyWavelets: https://github.com/PyWavelets/pywt
+- 智能体或工作流平台: https://ai-bot.cn/ai-agent-development-platform/
 </details>
 
 ## Reference
