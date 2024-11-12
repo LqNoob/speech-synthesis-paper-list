@@ -259,6 +259,7 @@
 - Foliate(PDF): https://johnfactotum.github.io/foliate/
 - Okular(PDF): https://okular.kde.org/zh-cn/
 - audioFlux: https://github.com/libAudioFlux/audioFlux
+- PyWavelets: https://github.com/PyWavelets/pywt
 </details>
 
 ## Reference
