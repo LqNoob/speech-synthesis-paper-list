@@ -264,6 +264,8 @@
 - audioFlux: https://github.com/libAudioFlux/audioFlux
 - PyWavelets: https://github.com/PyWavelets/pywt
 - 智能体或工作流平台: https://ai-bot.cn/ai-agent-development-platform/
+- open-webui: https://github.com/open-webui/open-webui
+- qwen-2.5-code-interpreter: https://github.com/cfahlgren1/qwen-2.5-code-interpreter
 </details>
 
 ## Reference
