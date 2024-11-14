@@ -1,4 +1,4 @@
-# Content
+# Neural Codec and Speech Language Models
 
 - [Awesome Codec, TTS & Speech LM](awesome-codec-,-tts-&-speech-lm)
   - [Neural Codec Models](#neural-codec-models)
