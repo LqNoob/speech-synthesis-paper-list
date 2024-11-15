@@ -16,7 +16,7 @@
 
 ## Awesome Codec, TTS & Speech LM
 
-1. **Acoustic Tokens**: Acoustic tokens are obtained using compression-based methods, which rely on encoder-decoder architectures with residual vector quantization (RVQ).
+1. **Acoustic Tokens**: Acoustic tokens are obtained using compression-based methods, which rely on encoder-decoder architectures with residual vector quantization (RVQ). It requires maintaining reconstruction ability and a low bitrate.
 2. **Semantic Tokens**: Semantic tokens involve applying clustering algorithms such as K-means to extract features from self-supervised learning models, using the cluster indices as discrete representations.
 
 ### Neural Codec Models
