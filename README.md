@@ -4,6 +4,8 @@
   - [Neural Codec Models](#neural-codec-models)
   - [Zero-Shot Text-to-Speech Synthesizers](#zero-shot-text-to-speech-synthesizers)
   - [Speech Language Models](#speech-language-models)
+    - [End-to-End (Paradigms) Models](#end-to-end-paradigms-models)
+    - [Cascaded (Paradigms) Models](#cascaded-paradigms-models)
 - [Music Generation](#music-generation)
 - [Some Interesting Models](#some-interesting-models)
 - [Speech DataSet](speech-dataset)
