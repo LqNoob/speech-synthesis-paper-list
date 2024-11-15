@@ -18,6 +18,7 @@
 
 1. **Acoustic Tokens**: Acoustic tokens are obtained using compression-based methods, which rely on encoder-decoder architectures with residual vector quantization (RVQ). It requires maintaining reconstruction ability and a low bitrate.
 2. **Semantic Tokens**: Semantic tokens involve applying clustering algorithms such as K-means to extract features from self-supervised learning models, using the cluster indices as discrete representations.
+3. **Speech Large Language Models**: These models are trained on top of speech and acoustic tokens in a language modeling approach. They demonstrate proficiency in tasks on speech understanding and speech generation. (from [speech-trident](https://github.com/ga642381/speech-trident))
 
 ### Neural Codec Models
 
