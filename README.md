@@ -16,9 +16,9 @@
 
 ## Awesome Codec, TTS & Speech LM
 
-1. **Acoustic Tokens**: Acoustic tokens are obtained using compression-based methods, which rely on encoder-decoder architectures with residual vector quantization (RVQ). It requires maintaining reconstruction ability and a low bitrate.
-2. **Semantic Tokens**: Semantic tokens involve applying clustering algorithms such as K-means to extract features from self-supervised learning models, using the cluster indices as discrete representations.
-3. **Speech Large Language Models**: These models are trained on top of speech and acoustic tokens in a language modeling approach. They demonstrate proficiency in tasks on speech understanding and speech generation. (from [speech-trident](https://github.com/ga642381/speech-trident))
+1. **Acoustic Tokens**: Acoustic tokens focuses on speech compression and reconstruction, which rely on encoder-decoder architectures with residual vector quantization (RVQ). Specifically, these models quantify speech features (which are downsampled from raw wavforms by one encoder) into a series of discrete tokens, then use one decoder to upsample these discrete tokens into the speech, calculating the reconstruction loss against the original signal. By this approach, we can get discrete acoustic tokens with impressive compression rates and high-fidelity acoustic information, making it more suitable for tasks such as speech synthesis and emotion analysis. (*requires maintaining reconstruction ability and a low bitrate*)
+2. **Semantic Tokens**: Semantic tokens involve applying clustering algorithms such as K-means to extract features from self-supervised learning models, using the cluster indices as discrete representations. And it is prediction-based modeling, these models are trained for representation learning by predicting future frames in an autoregressive manner or by using surrounding frames to predict masked frames. This approach tends to prioritize capturing linguistic information within speech, making it particularly useful for recognition and understanding tasks.
+4. **Speech Large Language Models**: These models are trained on top of speech and acoustic tokens in a language modeling approach. They demonstrate proficiency in tasks on speech understanding and speech generation. (From [speech-trident](https://github.com/ga642381/speech-trident))
 
 ### Neural Codec Models
 
