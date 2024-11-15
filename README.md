@@ -311,9 +311,12 @@
 - [InterSpeech2024 Speech Processing Using Discrete Speech Units](https://interspeech2024.org/special-sessions-challenges/) : https://www.wavlab.org/activities/2024/Interspeech2024-Discrete-Speech-Unit-Challenge/ : https://huggingface.co/discrete-speech : [arxiv 2024](https://arxiv.org/abs/2406.07725) : [[paper](https://www.isca-archive.org/interspeech_2024/index.html)]
 - [Codec-SUPERB: An In-Depth Analysis of Sound Codec Models](https://arxiv.org/abs/2402.13071v2) : https://github.com/voidful/Codec-SUPERB
 - [EMO-Codec: A Depth Look at Emotion Preservation Capacity of Legacy and Neural Codec Models With Subjective and Objective Evaluations](https://arxiv.org/abs/2407.15458)
-- [Towards audio language modeling -- an overview](https://arxiv.org/abs/2402.13236)
 - [speech-trident](https://github.com/ga642381/speech-trident) : Awesome speech/audio LLMs, representation learning, and codec models
-- 
+- [Awesome-Speech-Language-Model](https://github.com/ddlBoJack/Awesome-Speech-Language-Model) : Paper, Code and Resources for Speech Language Model and End2End Speech Dialogue System
+- [Towards audio language modeling -- an overview](https://arxiv.org/abs/2402.13236) : `arXiv 2402.13236`
+- [A Survey on Speech Large Language Models](https://arxiv.org/abs/2410.18908) : `arXiv 2410.18908`
+- [Recent Advances in Speech Language Models: A Survey](https://arxiv.org/abs/2410.03751) : `arXiv 2410.03751`
+- [WavChat: A Survey of Spoken Dialogue Models](??) : paper
 
 
 
