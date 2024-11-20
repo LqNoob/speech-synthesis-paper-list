@@ -308,6 +308,7 @@
 - 智能体或工作流平台: https://ai-bot.cn/ai-agent-development-platform/
 - open-webui: https://github.com/open-webui/open-webui
 - qwen-2.5-code-interpreter: https://github.com/cfahlgren1/qwen-2.5-code-interpreter
+- ollama: https://github.com/ollama/ollama; https://ollama.com/
 </details>
 
 ## Reference
