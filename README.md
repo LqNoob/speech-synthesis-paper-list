@@ -324,7 +324,7 @@
 - [Towards audio language modeling -- an overview](https://arxiv.org/abs/2402.13236) : `arXiv 2402.13236`
 - [A Survey on Speech Large Language Models](https://arxiv.org/abs/2410.18908) : `arXiv 2410.18908`
 - [Recent Advances in Speech Language Models: A Survey](https://arxiv.org/abs/2410.03751) : `arXiv 2410.03751`
-- [WavChat: A Survey of Spoken Dialogue Models](??) : paper
+- [WavChat: A Survey of Spoken Dialogue Models](https://www.arxiv.org/abs/2411.13577) : `arXiv 2411.13577`
 
 
 
