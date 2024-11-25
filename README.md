@@ -310,6 +310,7 @@
 - qwen-2.5-code-interpreter: https://github.com/cfahlgren1/qwen-2.5-code-interpreter
 - ollama: https://github.com/ollama/ollama; https://ollama.com/
 - vllm: https://github.com/vllm-project/vllm
+- anythingLLM: https://github.com/Mintplex-Labs/anything-llm
 </details>
 
 ## Reference
