@@ -312,6 +312,8 @@
 - ollama: https://github.com/ollama/ollama; https://ollama.com/
 - vllm: https://github.com/vllm-project/vllm
 - anythingLLM: https://github.com/Mintplex-Labs/anything-llm
+- Windsurf: https://codeium.com/windsurf
+- cursor: https://www.cursor.com/
 </details>
 
 ## Reference
