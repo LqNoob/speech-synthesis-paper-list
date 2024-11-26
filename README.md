@@ -96,6 +96,7 @@
 - [2024/11] **Scaling Transformers for Low-Bitrate High-Quality Speech Coding** [[paper](https://openreview.net/forum?id=4YpMrGfldX)][[demo](https://taae-iclr-2025.github.io/taae_anonymised/)] `Code Comming Soon` | *transformer-based and scale it into 1B parameter range*
 - [2024/11] **VChangeCodec: A High-efficiency Neural Speech Codec with Built-in Voice Changer for Real-time Communication** [[paper](https://openreview.net/forum?id=qDSfOQBrOD)] *integrates the Voice Changer model directly into the speech Codec*
 - [2024/11] **Wavehax: Aliasing-Free Neural Waveform Synthesis Based on 2D Convolution and Harmonic Prior for Reliable Complex Spectrogram Estimation** [[paper](https://arxiv.org/abs/2411.06807)][[code](https://github.com/chomeyama/wavehax)][[demo](https://chomeyama.github.io/wavehax-demo/)] *aliasing-free* :heavy_check_mark:
+- [2024/11] **PyramidCodec: Hierarchical Codec for Long-form Music Generation in Audio Domain** [[paper](https://aclanthology.org/2024.findings-emnlp.246/)][[demo](https://pyramidcodec.github.io/)] `Code Comming Soon` | *Music Tokenizer*
 
 
 ### Zero-Shot Text-to-Speech Synthesizers
