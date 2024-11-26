@@ -314,6 +314,7 @@
 - anythingLLM: https://github.com/Mintplex-Labs/anything-llm
 - Windsurf: https://codeium.com/windsurf
 - cursor: https://www.cursor.com/
+- docling: https://github.com/DS4SD/docling
 </details>
 
 ## Reference
