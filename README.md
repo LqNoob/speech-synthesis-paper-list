@@ -12,6 +12,7 @@
 [![github](https://img.shields.io/github/stars/LqNoob/Neural-Codec-and-Speech-Language-Models.svg?style=social)](https://github.com/LqNoob/Neural-Codec-and-Speech-Language-Models)
 [![GitHub issues](https://img.shields.io/github/issues/LqNoob/Neural-Codec-and-Speech-Language-Models?color=critical&label=Issues)](https://github.com/LqNoob/Neural-Codec-and-Speech-Language-Models/issues?q=is%3Aopen+is%3Aissue)
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/LqNoob/Neural-Codec-and-Speech-Language-Models?color=success&label=Issues)](https://github.com/LqNoob/Neural-Codec-and-Speech-Language-Models/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub contributors](https://img.shields.io/github/contributors/LqNoob/Neural-Codec-and-Speech-Language-Models.svg)](https://github.com/LqNoob/Neural-Codec-and-Speech-Language-Models/graphs/contributors/)
 </h5>
 
 - [Awesome Codec, TTS & Speech LM](awesome-codec-,-tts-&-speech-lm)
