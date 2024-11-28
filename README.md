@@ -170,6 +170,7 @@
 - [2024/11] **Fish-Speech: Leveraging Large Language Models for Advanced Multilingual Text-to-Speech Synthesis** [[paper](https://arxiv.org/abs/2411.01156)][[code](https://github.com/fishaudio/fish-speech)] :heavy_check_mark:
 - [2024/11] **OuteTTS-0.1-350M** [[blog](https://www.outeai.com/blog/OuteTTS-0.1-350M)][[code](https://github.com/edwko/OuteTTS)] :heavy_check_mark:
 - [2024/11] **Debatts: Zero-Shot Debating Text-to-Speech Synthesis** [[paper](https://arxiv.org/abs/2411.06540)][[demo](https://amphionspace.github.io/debatts/#demos)] *Debating TTS & Dataset*
+- [2024/11] **Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis** [[paper](https://www.arxiv.org/abs/2411.17690)] *Code Comming Soon* | *Text & Video to Speech*
 
 ### Speech Language Models
 
