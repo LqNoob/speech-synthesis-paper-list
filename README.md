@@ -206,6 +206,7 @@
 - [2024/11] **Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM** [[paper](https://arxiv.org/abs/2411.00774)][[demo](https://freeze-omni.github.io/)][[code](https://github.com/VITA-MLLM/Freeze-Omni)] *frozen llm in training* :heavy_check_mark:
 - [2024/11] **hertz-dev** [[code](https://github.com/Standard-Intelligence/hertz-dev)] :heavy_check_mark:
 - [2024/11] **Building a Taiwanese Mandarin Spoken Language Model: A First Attempt** [[paper](https://arxiv.org/abs/2411.07111)][[code](https://github.com/nervjack2/SpeechChatGPTStreaming/)] *`Code Comming Soon`*
+- [2024/11] **SALMONN-omni: A Codec-free LLM for Full-duplex Speech Understanding and Generation** [[paper](https://arxiv.org/abs/2411.18138)] *Code Comming Soon* | *free-codec*
 
 
 #### Cascaded (Paradigms) Models 
