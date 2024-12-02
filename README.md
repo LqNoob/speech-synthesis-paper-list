@@ -217,6 +217,7 @@
 - [2024/07] **Qwen2-Audio Technical Report** [[paper](https://www.arxiv.org/abs/2407.10759)][[code](https://github.com/QwenLM/Qwen2-Audio)] :heavy_check_mark:
 - [2024/08] **VITA: Towards Open-Source Interactive Omni Multimodal LLM** [[paper](https://www.arxiv.org/abs/2408.05211)][[code](https://github.com/VITA-MLLM/VITA)][[demo](https://vita-home.github.io/)] :heavy_check_mark:
 - [2024/10] **Ocean-omni: To Understand the World with Omni-modality** [[paper](https://arxiv.org/abs/2410.08565)][[code](https://github.com/westlake-baichuan-mllm/bc-omni)] *Baichuan-Omni* :heavy_check_mark:
+- [2024/10] **Ichigo: Mixed-Modal Early-Fusion Realtime Voice Assistant** [[paper](https://arxiv.org/abs/2410.15316)][[code](https://github.com/janhq/ichigo)] :heavy_check_mark:
 - [2024/11] **A fast multimodal LLM for real-time voice** [[blog](https://www.ultravox.ai/blog/ultravox-an-open-weight-alternative-to-gpt-4o-realtime)][[code](https://github.com/fixie-ai/ultravox)][[demo](https://demo.ultravox.ai/)] *Ultravox* :heavy_check_mark:
 
 
