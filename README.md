@@ -54,6 +54,7 @@
 - [2023/10] **Acoustic BPE for Speech Generation with Discrete Tokens** [[paper](https://arxiv.org/abs/2310.14580)][[code](https://github.com/AbrahamSanders/codec-bpe)] :heavy_check_mark:
 - [2024/01] **Residual Quantization with Implicit Neural Codebooks** [[paper](https://arxiv.org/abs/2401.14732)][[code](https://github.com/facebookresearch/Qinco)] :heavy_check_mark:
 - [2024/01] **SpeechTokenizer: Unified Speech Tokenizer for Speech Language Models** [[paper](https://openreview.net/forum?id=AF9Q8Vip84)][[code](https://github.com/ZhangXInFD/SpeechTokenizer)][[demo](https://0nutation.github.io/SpeechTokenizer.github.io/)] :heavy_check_mark:
+- [2024/01] **Residual Quantization with Implicit Neural Codebooks** [[paper](https://arxiv.org/abs/2401.14732)][[code](https://github.com/facebookresearch/Qinco)] *Qinco* :heavy_check_mark:
 - [2024/04] **SemantiCodec: An Ultra Low Bitrate Semantic Audio Codec for General Sound** [[paper](https://arxiv.org/abs/2405.00233)][[code](https://github.com/haoheliu/SemantiCodec)][[demo](https://haoheliu.github.io/SemantiCodec/)] :heavy_check_mark:
 - [2024/05] **HILCodec: High Fidelity and Lightweight Neural Audio Codec** [[paper](https://arxiv.org/abs/2405.04752)][[code](https://github.com/aask1357/hilcodec)][[demo](https://aask1357.github.io/hilcodec/)] :heavy_check_mark:
 - [2024/06] **Coding Speech through Vocal Tract Kinematics** [[paper](https://arxiv.org/abs/2406.12998)][[code](https://github.com/Berkeley-Speech-Group/Speech-Articulatory-Coding)] :heavy_check_mark:
