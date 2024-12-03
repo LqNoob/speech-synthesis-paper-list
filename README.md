@@ -112,6 +112,7 @@
 - [2024/11] **Wavehax: Aliasing-Free Neural Waveform Synthesis Based on 2D Convolution and Harmonic Prior for Reliable Complex Spectrogram Estimation** [[paper](https://arxiv.org/abs/2411.06807)][[code](https://github.com/chomeyama/wavehax)][[demo](https://chomeyama.github.io/wavehax-demo/)] *aliasing-free* :heavy_check_mark:
 - [2024/11] **PyramidCodec: Hierarchical Codec for Long-form Music Generation in Audio Domain** [[paper](https://aclanthology.org/2024.findings-emnlp.246/)][[demo](https://pyramidcodec.github.io/)] `Code Comming Soon` | *Music Tokenizer, Similar to MsCodec*
 - [2024/11] **Scaling Transformer for Low-bitrate High-Quality Speech Coding** [[paper](https://arxiv.org/abs/2411.19842)][[code](https://github.com/Stability-AI/stable-codec)][[demo](https://stability-ai.github.io/stable-codec-demo/)] `Code Comming Soon` | *transformer-based and scale it into 1B parameter range*
+- [2024/11] **TS3-Codec: Transformer-Based Simple Streaming Single Codec** [[paper](https://arxiv.org/abs/2411.18803)] *free-convolution*
 
 
 ### Zero-Shot Text-to-Speech Synthesizers
