@@ -172,7 +172,7 @@
 - [2024/11] **Fish-Speech: Leveraging Large Language Models for Advanced Multilingual Text-to-Speech Synthesis** [[paper](https://arxiv.org/abs/2411.01156)][[code](https://github.com/fishaudio/fish-speech)] :heavy_check_mark:
 - [2024/07] **ICAGC 2024: Inspirational and Convincing Audio Generation Challenge 2024** [[paper](https://arxiv.org/abs/2407.12038)] *emotional & background audio generation* | *ISCSLP 2024*
 - [2024/10] **The ISCSLP 2024 Conversational Voice Clone (CoVoC) Challenge: Tasks, Results and Findings** [[paper](https://arxiv.org/abs/2411.00064)] *zero-shot spontaneous style voice cloning* | *ISCSLP 2024*
-- [2024/11] **The Codec Language Model-based Zero-Shot Spontaneous Style TTS System for CoVoC Challenge 2024** [[paper](https://www.arxiv.org/abs/2412.01100)] *ISCSLP 2024*
+- [2024/12] **The Codec Language Model-based Zero-Shot Spontaneous Style TTS System for CoVoC Challenge 2024** [[paper](https://www.arxiv.org/abs/2412.01100)] *ISCSLP 2024*
 - [2024/11] **OuteTTS-0.1-350M** [[blog](https://www.outeai.com/blog/OuteTTS-0.1-350M)][[code](https://github.com/edwko/OuteTTS)] :heavy_check_mark:
 - [2024/11] **Debatts: Zero-Shot Debating Text-to-Speech Synthesis** [[paper](https://arxiv.org/abs/2411.06540)][[demo](https://amphionspace.github.io/debatts/#demos)] *Debating TTS & Dataset*
 - [2024/11] **Visatronic: A Multimodal Decoder-Only Model for Speech Synthesis** [[paper](https://www.arxiv.org/abs/2411.17690)] *Code Comming Soon* | *Text & Video to Speech*
