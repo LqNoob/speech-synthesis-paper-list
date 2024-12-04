@@ -114,6 +114,7 @@
 - [2024/11] **PyramidCodec: Hierarchical Codec for Long-form Music Generation in Audio Domain** [[paper](https://aclanthology.org/2024.findings-emnlp.246/)][[demo](https://pyramidcodec.github.io/)] `Code Comming Soon` | *Music Tokenizer, Similar to MsCodec*
 - [2024/11] **Scaling Transformer for Low-bitrate High-Quality Speech Coding** [[paper](https://arxiv.org/abs/2411.19842)][[code](https://github.com/Stability-AI/stable-codec)][[demo](https://stability-ai.github.io/stable-codec-demo/)] `Code Comming Soon` | *transformer-based and scale it into 1B parameter range*
 - [2024/11] **TS3-Codec: Transformer-Based Simple Streaming Single Codec** [[paper](https://arxiv.org/abs/2411.18803)] *free-convolution*
+- [2024/12] **FreeCodec: A disentangled neural speech codec with fewer tokens** [[paper](https://arxiv.org/abs/2412.01053)][[code](https://github.com/exercise-book-yq/FreeCodec)][[demo](https://exercise-book-yq.github.io/FreeCodec-Demo/)] `Code Comming Soon` | *speaker encoder, content encoder and prosody encoder*
 
 
 ### Zero-Shot Text-to-Speech Synthesizers
