@@ -206,12 +206,12 @@
 - [2024/10] **OmniFlatten: An End-to-end GPT Model for Seamless Voice Conversation** [[paper](https://arxiv.org/abs/2410.17799)][[demo](https://omniflatten.github.io/)] *`Code Comming Soon`*
 - [2024/10] **IntrinsicVoice: Empowering LLMs with Intrinsic Real-time Voice Interaction Abilities** [[paper](https://arxiv.org/abs/2410.08035)][[demo](https://instrinsicvoice.github.io/)] *reducing the length difference between speech and text*
 - [2024/10] **Mini-Omni2: Towards Open-source GPT-4o with Vision, Speech and Duplex Capabilities** [[paper](https://arxiv.org/abs/2410.11190)][[code](https://github.com/gpt-omni/mini-omni2)] :heavy_check_mark:
-- [2024/10] **GLM-4-Voice** [[code](https://github.com/THUDM/GLM-4-Voice)] *speech interaction model & emotion, intonation, speech rate, and dialect & low latency* :heavy_check_mark:
 - [2024/11] **Freeze-Omni: A Smart and Low Latency Speech-to-speech Dialogue Model with Frozen LLM** [[paper](https://arxiv.org/abs/2411.00774)][[demo](https://freeze-omni.github.io/)][[code](https://github.com/VITA-MLLM/Freeze-Omni)] *frozen llm in training* :heavy_check_mark:
 - [2024/11] **hertz-dev** [[code](https://github.com/Standard-Intelligence/hertz-dev)] :heavy_check_mark:
 - [2024/11] **Building a Taiwanese Mandarin Spoken Language Model: A First Attempt** [[paper](https://arxiv.org/abs/2411.07111)][[code](https://github.com/nervjack2/SpeechChatGPTStreaming/)] *`Code Comming Soon`*
 - [2024/11] **SALMONN-omni: A Codec-free LLM for Full-duplex Speech Understanding and Generation** [[paper](https://arxiv.org/abs/2411.18138)] *Code Comming Soon* | *free-codec*
 - [2024/11] **MooER: Moore-threads Open Omni model for speech-to-speech intERaction** [[code](https://github.com/MooreThreads/MooER)] `Paper Comming Soon`
+- [2024/12] **GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot** [[paper](https://www.arxiv.org/abs/2412.02612)][[code](https://github.com/THUDM/GLM-4-Voice)] *speech interaction model & emotion, intonation, speech rate, and dialect & low latency* :heavy_check_mark:
 
 
 #### Cascaded (Paradigms) Models 
