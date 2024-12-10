@@ -21,6 +21,7 @@
   - [Speech Language Models](#speech-language-models)
     - [End-to-End (Paradigms) Models](#end-to-end-paradigms-models)
     - [Cascaded (Paradigms) Models](#cascaded-paradigms-models)
+  - [Benchmark](#benchmark)
 - [Music Generation](#music-generation)
 - [Some Interesting Models](#some-interesting-models)
 - [Speech DataSet](speech-dataset)
@@ -229,6 +230,14 @@
 - [2024/11] **A fast multimodal LLM for real-time voice** [[blog](https://www.ultravox.ai/blog/ultravox-an-open-weight-alternative-to-gpt-4o-realtime)][[code](https://github.com/fixie-ai/ultravox)][[demo](https://demo.ultravox.ai/)] *Ultravox* :heavy_check_mark:
 
 
+### Benchmark
+- [2023/09] **Dynamic-SUPERB: Towards A Dynamic, Collaborative, and Comprehensive Instruction-Tuning Benchmark for Speech** [[paper](https://arxiv.org/abs/2309.09510)]
+- [2024/02] **Codec-SUPERB: An In-Depth Analysis of Sound Codec Models** [[paper](https://arxiv.org/abs/2402.13071v2)][[code](https://github.com/voidful/Codec-SUPERB)]
+- [2024/07] **EMO-Codec: A Depth Look at Emotion Preservation Capacity of Legacy and Neural Codec Models With Subjective and Objective Evaluations** [[paper](https://arxiv.org/abs/2407.15458)]
+- [2024/06] **DASB - Discrete Audio and Speech Benchmark** [[paper](https://arxiv.org/abs/2406.14294)][[code](https://github.com/speechbrain/benchmarks/tree/main/benchmarks/DASB)] *a benchmark for evaluating discrete audio representations*
+- [2024/12] **Benchmarking Open-ended Audio Dialogue Understanding for Large Audio-Language Models** [[paper](https://arxiv.org/abs/2412.05167)]
+
+
 ## Some Interesting Models
 
 - [2022/09] **Rectified Flow: A Marginal Preserving Approach to Optimal Transport** [[paper](https://arxiv.org/abs/2209.14577)][[code](https://github.com/gnobitab/RectifiedFlow)] :heavy_check_mark:
@@ -352,10 +361,7 @@
 - [别慌！一文教你看懂GPT-4o背后的语音技术](https://zhuanlan.zhihu.com/p/698725358)
 - [百花齐放的Audio Codec: 语音合成利器](https://zhuanlan.zhihu.com/p/696434090)
 - [InterSpeech2024 Speech Processing Using Discrete Speech Units](https://interspeech2024.org/special-sessions-challenges/) : https://www.wavlab.org/activities/2024/Interspeech2024-Discrete-Speech-Unit-Challenge/ : https://huggingface.co/discrete-speech : [arxiv 2024](https://arxiv.org/abs/2406.07725) : [[paper](https://www.isca-archive.org/interspeech_2024/index.html)]
-- [Codec-SUPERB: An In-Depth Analysis of Sound Codec Models](https://arxiv.org/abs/2402.13071v2) : https://github.com/voidful/Codec-SUPERB
-- [EMO-Codec: A Depth Look at Emotion Preservation Capacity of Legacy and Neural Codec Models With Subjective and Objective Evaluations](https://arxiv.org/abs/2407.15458)
 - [Challenges in Developing Spoken Language Models](https://drive.google.com/file/d/1gPjnjGKxeCF72gisPVuQlDvogXQCtNk4/view) *slides*
-- [DASB - Discrete Audio and Speech Benchmark](https://github.com/speechbrain/benchmarks/tree/main/benchmarks/DASB) *a benchmark for evaluating discrete audio representations*
 - [speech-trident](https://github.com/ga642381/speech-trident) : Awesome speech/audio LLMs, representation learning, and codec models
 - [Awesome-Speech-Language-Model](https://github.com/ddlBoJack/Awesome-Speech-Language-Model) : Paper, Code and Resources for Speech Language Model and End2End Speech Dialogue System
 - [Towards audio language modeling -- an overview](https://arxiv.org/abs/2402.13236) : `arXiv 2402.13236`
