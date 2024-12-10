@@ -213,6 +213,7 @@
 - [2024/11] **MooER: Moore-threads Open Omni model for speech-to-speech intERaction** [[code](https://github.com/MooreThreads/MooER)] `Paper Comming Soon`
 - [2024/12] **GLM-4-Voice: Towards Intelligent and Human-Like End-to-End Spoken Chatbot** [[paper](https://www.arxiv.org/abs/2412.02612)][[code](https://github.com/THUDM/GLM-4-Voice)] *speech interaction model & emotion, intonation, speech rate, and dialect & low latency* :heavy_check_mark:
 - [2024/02] **Paralinguistics-Aware Speech-Empowered LLMs for Natural Conversation** [[paper](https://arxiv.org/abs/2402.05706)][[code](https://github.com/naver-ai/usdm)][[demo](https://unifiedsdm.github.io/)] *learning cross-modal distributional semantics* :heavy_check_mark:
+- [2024/12] **Continuous Speech Tokens Makes LLMs Robust Multi-Modality Learners** [[paper](https://arxiv.org/abs/2412.04917)][[demo](https://cognitivespeech.github.io/flowomni)] *Flow-Omni, continuous speech tokens*
 
 
 #### Cascaded (Paradigms) Models 
