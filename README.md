@@ -22,7 +22,7 @@
     - [End-to-End (Paradigms) Models](#end-to-end-paradigms-models)
     - [Cascaded (Paradigms) Models](#cascaded-paradigms-models)
   - [Benchmark](#benchmark)
-  - [Survey][#survey]
+  - [Survey](#survey)
 - [Music Generation](#music-generation)
 - [Some Interesting Models](#some-interesting-models)
 - [Speech DataSet](speech-dataset)
