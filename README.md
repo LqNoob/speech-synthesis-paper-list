@@ -260,6 +260,7 @@
 - [2024/09] **Seed-Music: A Unified Framework for High Quality and Controlled Music Generation** [[paper](https://arxiv.org/abs/2409.09214)][[demo](https://team.doubao.com/en/special/seed-music)] *tech-report*
 - [2024/09] **FLUX that Plays Music** [[paper](https://arxiv.org/abs/2409.00587)][[code](https://github.com/feizc/FluxMusic)][[melodio](https://www.melodio.ai/)] *KunLun* :heavy_check_mark:
 - [2024/10] **MusicFlow: Cascaded Flow Matching for Text Guided Music Generation** [[paper](https://arxiv.org/abs/2410.20478v1)] *`Code Comming Soon`* | *Similar to MaskGCT*
+- [2024/12] **MuMu-LLaMA: Multi-modal Music Understanding and Generation via Large Language Models** [[paper](https://arxiv.org/abs/2412.06660)][[code](https://github.com/shansongliu/MuMu-LLaMA)] *`Code Comming Soon`*
 
 
 ## Speech DataSet
