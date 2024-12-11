@@ -22,6 +22,7 @@
     - [End-to-End (Paradigms) Models](#end-to-end-paradigms-models)
     - [Cascaded (Paradigms) Models](#cascaded-paradigms-models)
   - [Benchmark](#benchmark)
+  - [Survey][#survey]
 - [Music Generation](#music-generation)
 - [Some Interesting Models](#some-interesting-models)
 - [Speech DataSet](speech-dataset)
@@ -238,6 +239,13 @@
 - [2024/12] **Benchmarking Open-ended Audio Dialogue Understanding for Large Audio-Language Models** [[paper](https://arxiv.org/abs/2412.05167)]
 
 
+### Survey
+- [2024/02] **Towards audio language modeling -- an overview** [[paper](https://arxiv.org/abs/2402.13236)]
+- [2024/10] **A Survey on Speech Large Language Models** [[paper](https://arxiv.org/abs/2410.18908)]
+- [2024/10] **Recent Advances in Speech Language Models: A Survey** [[paper](https://arxiv.org/abs/2410.03751)]
+- [2024/11] **WavChat: A Survey of Spoken Dialogue Models** [[paper](https://www.arxiv.org/abs/2411.13577)][[code](https://github.com/jishengpeng/WavChat)]
+- [2024/12] **Towards Controllable Speech Synthesis in the Era of Large Language Models: A Survey** [[paper](https://arxiv.org/abs/2412.06602)][[code](https://github.com/imxtx/awesome-controllabe-speech-synthesis)]
+
 ## Some Interesting Models
 
 - [2022/09] **Rectified Flow: A Marginal Preserving Approach to Optimal Transport** [[paper](https://arxiv.org/abs/2209.14577)][[code](https://github.com/gnobitab/RectifiedFlow)] :heavy_check_mark:
@@ -365,10 +373,6 @@
 - [Challenges in Developing Spoken Language Models](https://drive.google.com/file/d/1gPjnjGKxeCF72gisPVuQlDvogXQCtNk4/view) *slides*
 - [speech-trident](https://github.com/ga642381/speech-trident) : Awesome speech/audio LLMs, representation learning, and codec models
 - [Awesome-Speech-Language-Model](https://github.com/ddlBoJack/Awesome-Speech-Language-Model) : Paper, Code and Resources for Speech Language Model and End2End Speech Dialogue System
-- [Towards audio language modeling -- an overview](https://arxiv.org/abs/2402.13236) : `arXiv 2402.13236`
-- [A Survey on Speech Large Language Models](https://arxiv.org/abs/2410.18908) : `arXiv 2410.18908`
-- [Recent Advances in Speech Language Models: A Survey](https://arxiv.org/abs/2410.03751) : `arXiv 2410.03751`
-- [WavChat: A Survey of Spoken Dialogue Models](https://www.arxiv.org/abs/2411.13577) : `arXiv 2411.13577`
 
 
 
