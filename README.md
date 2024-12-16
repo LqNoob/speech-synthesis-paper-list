@@ -1,5 +1,8 @@
-<h2 align="center"> Neural Codec and Speech Language Models
 
+<!--
+![Neural-Codec-and-Speech-Language-Models](https://socialify.git.ci/LqNoob/Neural-Codec-and-Speech-Language-Models/image?description=1&font=Jost&logo=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F215282743-5a6fb12c-b67c-45b4-b547-1c340958c6da.png&name=1&pattern=Solid&theme=Light)
+-->
+<h2 align="center"> Neural Codec and Speech Language Models
 </h2>
 
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
