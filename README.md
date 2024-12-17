@@ -267,6 +267,7 @@
 - [2024/11] **FLowHigh: Towards efficient and high-quality audio super-resolution with single-step flow matching** [[code](https://github.com/jjunak-yun/FLowHigh_code)][[demo](https://jjunak-yun.github.io/FLowHigh/)] :heavy_check_mark:
 - [2024/09] **SSR-Speech: Towards Stable, Safe and Robust Zero-shot Text-based Speech Editing and Synthesis** [[paper](https://arxiv.org/abs/2409.07556)][[code](https://github.com/WangHelin1997/SSR-Speech)][[demo](https://wanghelin1997.github.io/SSR-Speech-Demo/)] :heavy_check_mark:
 - [2024/12] **OmniFlow: Any-to-Any Generation with Multi-Modal Rectified Flows** [[paper](https://arxiv.org/abs/2412.01169)][[code](https://github.com/jacklishufan/OmniFlows)] :heavy_check_mark:
+- [2024/12] **Flow Matching Guide and Code** [[paper](https://arxiv.org/abs/2412.06264)][[code](https://github.com/facebookresearch/flow_matching)]
 
 
 ## Music Generation
