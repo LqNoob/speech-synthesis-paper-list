@@ -373,6 +373,7 @@
 - Windsurf: https://codeium.com/windsurf
 - cursor: https://www.cursor.com/
 - docling: https://github.com/DS4SD/docling
+- TEN-Agent: https://github.com/TEN-framework/TEN-Agent
 </details>
 
 ## Reference
